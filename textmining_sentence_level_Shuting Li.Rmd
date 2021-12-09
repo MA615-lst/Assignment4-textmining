@@ -1,5 +1,5 @@
 ---
-title: "textmining_tnum"
+title: "textmining_sentence_level"
 author: "Shuting"
 date: "12/8/2021"
 output: html_document
@@ -29,18 +29,33 @@ Metamorphosis_txt <- tnum.query("Kafka/Metamorphosis# has text", max = 3000)
 Metamorphosis_txt_df <- tnum.objectsToDf(Metamorphosis_txt)
 ```
 
-## Do sentimentr
+## Do sentimentr on sentence
 
 ```{r}
-sentiment=sentiment_by(get_sentences(Metamorphosis$text))
+sentiment=sentiment_by(get_sentences(Metamorphosis_txt_df$string.value))
 summary(sentiment$ave_sentiment)
+
 qplot(sentiment$ave_sentiment,geom="histogram",binwidth=0.1,main="Review Sentiment Histogram")
+
 ### add sentiment score to original data frame
-Metamorphosis$ave_sentiment=sentiment$ave_sentiment
-Metamorphosis$sd_sentiment=sentiment$sd
+Metamorphosis_txt_df$ave_sentiment=sentiment$ave_sentiment
+Metamorphosis_txt_df$sd_sentiment=sentiment$sd
 ```
 From the summary of sentiment score, reviews keep neutral in this book, but there are some extreme outliers, with the most positive review being 1.41 and the most negative being -1.45. We should remove them for further analysis.
 
+## Re-do the bag of words analysis
+
+### Sentiment analysis based on "afinn"
+```{r}
+Metamorphosis_sentiment_afinn <- Metamorphosis_txt_df %>% 
+  inner_join(get_sentiments("afinn")) %>% 
+  group_by(index = linenumber %/% 8) %>% 
+  summarise(sentiment = sum(value)) %>% 
+  mutate(method = "AFINN")
+
+ggplot(Metamorphosis_sentiment_afinn, aes(index, sentiment,fill=factor(sentiment))) +
+  geom_col(show.legend = FALSE)
+```
 
 
 
