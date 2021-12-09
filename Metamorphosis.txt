@@ -1,0 +1,1873 @@
+"gutenberg_id" "text" "linenumber" "chapter"
+"1" 5200 "Metamorphosis" 1 0
+"2" 5200 "" 2 0
+"3" 5200 "by Franz Kafka" 3 0
+"4" 5200 "" 4 0
+"5" 5200 "Translated by David Wyllie" 5 0
+"6" 5200 "" 6 0
+"7" 5200 "" 7 0
+"8" 5200 "" 8 0
+"9" 5200 "" 9 0
+"10" 5200 "<chapter I>" 10 0
+"11" 5200 "" 11 0
+"12" 5200 "" 12 0
+"13" 5200 "One morning, when Gregor Samsa woke from troubled dreams, he found" 13 0
+"14" 5200 "himself transformed in his bed into a horrible vermin. He lay on his" 14 0
+"15" 5200 "armour-like back, and if he lifted his head a little he could see his" 15 0
+"16" 5200 "brown belly, slightly domed and divided by arches into stiff sections." 16 0
+"17" 5200 "The bedding was hardly able to cover it and seemed ready to slide off" 17 0
+"18" 5200 "any moment. His many legs, pitifully thin compared with the size of the" 18 0
+"19" 5200 "rest of him, waved about helplessly as he looked." 19 0
+"20" 5200 "" 20 0
+"21" 5200 "“What’s happened to me?” he thought. It wasn’t a dream. His room, a" 21 0
+"22" 5200 "proper human room although a little too small, lay peacefully between" 22 0
+"23" 5200 "its four familiar walls. A collection of textile samples lay spread out" 23 0
+"24" 5200 "on the table—Samsa was a travelling salesman—and above it there hung a" 24 0
+"25" 5200 "picture that he had recently cut out of an illustrated magazine and" 25 0
+"26" 5200 "housed in a nice, gilded frame. It showed a lady fitted out with a fur" 26 0
+"27" 5200 "hat and fur boa who sat upright, raising a heavy fur muff that covered" 27 0
+"28" 5200 "the whole of her lower arm towards the viewer." 28 0
+"29" 5200 "" 29 0
+"30" 5200 "Gregor then turned to look out the window at the dull weather. Drops of" 30 0
+"31" 5200 "rain could be heard hitting the pane, which made him feel quite sad." 31 0
+"32" 5200 "“How about if I sleep a little bit longer and forget all this" 32 0
+"33" 5200 "nonsense”, he thought, but that was something he was unable to do" 33 0
+"34" 5200 "because he was used to sleeping on his right, and in his present state" 34 0
+"35" 5200 "couldn’t get into that position. However hard he threw himself onto his" 35 0
+"36" 5200 "right, he always rolled back to where he was. He must have tried it a" 36 0
+"37" 5200 "hundred times, shut his eyes so that he wouldn’t have to look at the" 37 0
+"38" 5200 "floundering legs, and only stopped when he began to feel a mild, dull" 38 0
+"39" 5200 "pain there that he had never felt before." 39 0
+"40" 5200 "" 40 0
+"41" 5200 "“Oh, God”, he thought, “what a strenuous career it is that I’ve chosen!" 41 0
+"42" 5200 "Travelling day in and day out. Doing business like this takes much more" 42 0
+"43" 5200 "effort than doing your own business at home, and on top of that there’s" 43 0
+"44" 5200 "the curse of travelling, worries about making train connections, bad" 44 0
+"45" 5200 "and irregular food, contact with different people all the time so that" 45 0
+"46" 5200 "you can never get to know anyone or become friendly with them. It can" 46 0
+"47" 5200 "all go to Hell!” He felt a slight itch up on his belly; pushed himself" 47 0
+"48" 5200 "slowly up on his back towards the headboard so that he could lift his" 48 0
+"49" 5200 "head better; found where the itch was, and saw that it was covered with" 49 0
+"50" 5200 "lots of little white spots which he didn’t know what to make of; and" 50 0
+"51" 5200 "when he tried to feel the place with one of his legs he drew it quickly" 51 0
+"52" 5200 "back because as soon as he touched it he was overcome by a cold" 52 0
+"53" 5200 "shudder." 53 0
+"54" 5200 "" 54 0
+"55" 5200 "He slid back into his former position. “Getting up early all the time”," 55 0
+"56" 5200 "he thought, “it makes you stupid. You’ve got to get enough sleep. Other" 56 0
+"57" 5200 "travelling salesmen live a life of luxury. For instance, whenever I go" 57 0
+"58" 5200 "back to the guest house during the morning to copy out the contract," 58 0
+"59" 5200 "these gentlemen are always still sitting there eating their breakfasts." 59 0
+"60" 5200 "I ought to just try that with my boss; I’d get kicked out on the spot." 60 0
+"61" 5200 "But who knows, maybe that would be the best thing for me. If I didn’t" 61 0
+"62" 5200 "have my parents to think about I’d have given in my notice a long time" 62 0
+"63" 5200 "ago, I’d have gone up to the boss and told him just what I think, tell" 63 0
+"64" 5200 "him everything I would, let him know just what I feel. He’d fall right" 64 0
+"65" 5200 "off his desk! And it’s a funny sort of business to be sitting up there" 65 0
+"66" 5200 "at your desk, talking down at your subordinates from up there," 66 0
+"67" 5200 "especially when you have to go right up close because the boss is hard" 67 0
+"68" 5200 "of hearing. Well, there’s still some hope; once I’ve got the money" 68 0
+"69" 5200 "together to pay off my parents’ debt to him—another five or six years I" 69 0
+"70" 5200 "suppose—that’s definitely what I’ll do. That’s when I’ll make the big" 70 0
+"71" 5200 "change. First of all though, I’ve got to get up, my train leaves at" 71 0
+"72" 5200 "five.”" 72 0
+"73" 5200 "" 73 0
+"74" 5200 "And he looked over at the alarm clock, ticking on the chest of drawers." 74 0
+"75" 5200 "“God in Heaven!” he thought. It was half past six and the hands were" 75 0
+"76" 5200 "quietly moving forwards, it was even later than half past, more like" 76 0
+"77" 5200 "quarter to seven. Had the alarm clock not rung? He could see from the" 77 0
+"78" 5200 "bed that it had been set for four o’clock as it should have been; it" 78 0
+"79" 5200 "certainly must have rung. Yes, but was it possible to quietly sleep" 79 0
+"80" 5200 "through that furniture-rattling noise? True, he had not slept" 80 0
+"81" 5200 "peacefully, but probably all the more deeply because of that. What" 81 0
+"82" 5200 "should he do now? The next train went at seven; if he were to catch" 82 0
+"83" 5200 "that he would have to rush like mad and the collection of samples was" 83 0
+"84" 5200 "still not packed, and he did not at all feel particularly fresh and" 84 0
+"85" 5200 "lively. And even if he did catch the train he would not avoid his" 85 0
+"86" 5200 "boss’s anger as the office assistant would have been there to see the" 86 0
+"87" 5200 "five o’clock train go, he would have put in his report about Gregor’s" 87 0
+"88" 5200 "not being there a long time ago. The office assistant was the boss’s" 88 0
+"89" 5200 "man, spineless, and with no understanding. What about if he reported" 89 0
+"90" 5200 "sick? But that would be extremely strained and suspicious as in five" 90 0
+"91" 5200 "years of service Gregor had never once yet been ill. His boss would" 91 0
+"92" 5200 "certainly come round with the doctor from the medical insurance" 92 0
+"93" 5200 "company, accuse his parents of having a lazy son, and accept the" 93 0
+"94" 5200 "doctor’s recommendation not to make any claim as the doctor believed" 94 0
+"95" 5200 "that no-one was ever ill but that many were workshy. And what’s more," 95 0
+"96" 5200 "would he have been entirely wrong in this case? Gregor did in fact," 96 0
+"97" 5200 "apart from excessive sleepiness after sleeping for so long, feel" 97 0
+"98" 5200 "completely well and even felt much hungrier than usual." 98 0
+"99" 5200 "" 99 0
+"100" 5200 "He was still hurriedly thinking all this through, unable to decide to" 100 0
+"101" 5200 "get out of the bed, when the clock struck quarter to seven. There was a" 101 0
+"102" 5200 "cautious knock at the door near his head. “Gregor”, somebody called—it" 102 0
+"103" 5200 "was his mother—“it’s quarter to seven. Didn’t you want to go" 103 0
+"104" 5200 "somewhere?” That gentle voice! Gregor was shocked when he heard his own" 104 0
+"105" 5200 "voice answering, it could hardly be recognised as the voice he had had" 105 0
+"106" 5200 "before. As if from deep inside him, there was a painful and" 106 0
+"107" 5200 "uncontrollable squeaking mixed in with it, the words could be made out" 107 0
+"108" 5200 "at first but then there was a sort of echo which made them unclear," 108 0
+"109" 5200 "leaving the hearer unsure whether he had heard properly or not. Gregor" 109 0
+"110" 5200 "had wanted to give a full answer and explain everything, but in the" 110 0
+"111" 5200 "circumstances contented himself with saying: “Yes, mother, yes," 111 0
+"112" 5200 "thank-you, I’m getting up now.” The change in Gregor’s voice probably" 112 0
+"113" 5200 "could not be noticed outside through the wooden door, as his mother was" 113 0
+"114" 5200 "satisfied with this explanation and shuffled away. But this short" 114 0
+"115" 5200 "conversation made the other members of the family aware that Gregor," 115 0
+"116" 5200 "against their expectations was still at home, and soon his father came" 116 0
+"117" 5200 "knocking at one of the side doors, gently, but with his fist. “Gregor," 117 0
+"118" 5200 "Gregor”, he called, “what’s wrong?” And after a short while he called" 118 0
+"119" 5200 "again with a warning deepness in his voice: “Gregor! Gregor!” At the" 119 0
+"120" 5200 "other side door his sister came plaintively: “Gregor? Aren’t you well?" 120 0
+"121" 5200 "Do you need anything?” Gregor answered to both sides: “I’m ready, now”," 121 0
+"122" 5200 "making an effort to remove all the strangeness from his voice by" 122 0
+"123" 5200 "enunciating very carefully and putting long pauses between each," 123 0
+"124" 5200 "individual word. His father went back to his breakfast, but his sister" 124 0
+"125" 5200 "whispered: “Gregor, open the door, I beg of you.” Gregor, however, had" 125 0
+"126" 5200 "no thought of opening the door, and instead congratulated himself for" 126 0
+"127" 5200 "his cautious habit, acquired from his travelling, of locking all doors" 127 0
+"128" 5200 "at night even when he was at home." 128 0
+"129" 5200 "" 129 0
+"130" 5200 "The first thing he wanted to do was to get up in peace without being" 130 0
+"131" 5200 "disturbed, to get dressed, and most of all to have his breakfast. Only" 131 0
+"132" 5200 "then would he consider what to do next, as he was well aware that he" 132 0
+"133" 5200 "would not bring his thoughts to any sensible conclusions by lying in" 133 0
+"134" 5200 "bed. He remembered that he had often felt a slight pain in bed, perhaps" 134 0
+"135" 5200 "caused by lying awkwardly, but that had always turned out to be pure" 135 0
+"136" 5200 "imagination and he wondered how his imaginings would slowly resolve" 136 0
+"137" 5200 "themselves today. He did not have the slightest doubt that the change" 137 0
+"138" 5200 "in his voice was nothing more than the first sign of a serious cold," 138 0
+"139" 5200 "which was an occupational hazard for travelling salesmen." 139 0
+"140" 5200 "" 140 0
+"141" 5200 "It was a simple matter to throw off the covers; he only had to blow" 141 0
+"142" 5200 "himself up a little and they fell off by themselves. But it became" 142 0
+"143" 5200 "difficult after that, especially as he was so exceptionally broad. He" 143 0
+"144" 5200 "would have used his arms and his hands to push himself up; but instead" 144 0
+"145" 5200 "of them he only had all those little legs continuously moving in" 145 0
+"146" 5200 "different directions, and which he was moreover unable to control. If" 146 0
+"147" 5200 "he wanted to bend one of them, then that was the first one that would" 147 0
+"148" 5200 "stretch itself out; and if he finally managed to do what he wanted with" 148 0
+"149" 5200 "that leg, all the others seemed to be set free and would move about" 149 0
+"150" 5200 "painfully. “This is something that can’t be done in bed”, Gregor said" 150 0
+"151" 5200 "to himself, “so don’t keep trying to do it”." 151 0
+"152" 5200 "" 152 0
+"153" 5200 "The first thing he wanted to do was get the lower part of his body out" 153 0
+"154" 5200 "of the bed, but he had never seen this lower part, and could not" 154 0
+"155" 5200 "imagine what it looked like; it turned out to be too hard to move; it" 155 0
+"156" 5200 "went so slowly; and finally, almost in a frenzy, when he carelessly" 156 0
+"157" 5200 "shoved himself forwards with all the force he could gather, he chose" 157 0
+"158" 5200 "the wrong direction, hit hard against the lower bedpost, and learned" 158 0
+"159" 5200 "from the burning pain he felt that the lower part of his body might" 159 0
+"160" 5200 "well, at present, be the most sensitive." 160 0
+"161" 5200 "" 161 0
+"162" 5200 "So then he tried to get the top part of his body out of the bed first," 162 0
+"163" 5200 "carefully turning his head to the side. This he managed quite easily," 163 0
+"164" 5200 "and despite its breadth and its weight, the bulk of his body eventually" 164 0
+"165" 5200 "followed slowly in the direction of the head. But when he had at last" 165 0
+"166" 5200 "got his head out of the bed and into the fresh air it occurred to him" 166 0
+"167" 5200 "that if he let himself fall it would be a miracle if his head were not" 167 0
+"168" 5200 "injured, so he became afraid to carry on pushing himself forward the" 168 0
+"169" 5200 "same way. And he could not knock himself out now at any price; better" 169 0
+"170" 5200 "to stay in bed than lose consciousness." 170 0
+"171" 5200 "" 171 0
+"172" 5200 "It took just as much effort to get back to where he had been earlier," 172 0
+"173" 5200 "but when he lay there sighing, and was once more watching his legs as" 173 0
+"174" 5200 "they struggled against each other even harder than before, if that was" 174 0
+"175" 5200 "possible, he could think of no way of bringing peace and order to this" 175 0
+"176" 5200 "chaos. He told himself once more that it was not possible for him to" 176 0
+"177" 5200 "stay in bed and that the most sensible thing to do would be to get free" 177 0
+"178" 5200 "of it in whatever way he could at whatever sacrifice. At the same time," 178 0
+"179" 5200 "though, he did not forget to remind himself that calm consideration was" 179 0
+"180" 5200 "much better than rushing to desperate conclusions. At times like this" 180 0
+"181" 5200 "he would direct his eyes to the window and look out as clearly as he" 181 0
+"182" 5200 "could, but unfortunately, even the other side of the narrow street was" 182 0
+"183" 5200 "enveloped in morning fog and the view had little confidence or cheer to" 183 0
+"184" 5200 "offer him. “Seven o’clock, already”, he said to himself when the clock" 184 0
+"185" 5200 "struck again, “seven o’clock, and there’s still a fog like this.” And" 185 0
+"186" 5200 "he lay there quietly a while longer, breathing lightly as if he perhaps" 186 0
+"187" 5200 "expected the total stillness to bring things back to their real and" 187 0
+"188" 5200 "natural state." 188 0
+"189" 5200 "" 189 0
+"190" 5200 "But then he said to himself: “Before it strikes quarter past seven I’ll" 190 0
+"191" 5200 "definitely have to have got properly out of bed. And by then somebody" 191 0
+"192" 5200 "will have come round from work to ask what’s happened to me as well, as" 192 0
+"193" 5200 "they open up at work before seven o’clock.” And so he set himself to" 193 0
+"194" 5200 "the task of swinging the entire length of his body out of the bed all" 194 0
+"195" 5200 "at the same time. If he succeeded in falling out of bed in this way and" 195 0
+"196" 5200 "kept his head raised as he did so he could probably avoid injuring it." 196 0
+"197" 5200 "His back seemed to be quite hard, and probably nothing would happen to" 197 0
+"198" 5200 "it falling onto the carpet. His main concern was for the loud noise he" 198 0
+"199" 5200 "was bound to make, and which even through all the doors would probably" 199 0
+"200" 5200 "raise concern if not alarm. But it was something that had to be risked." 200 0
+"201" 5200 "" 201 0
+"202" 5200 "When Gregor was already sticking half way out of the bed—the new method" 202 0
+"203" 5200 "was more of a game than an effort, all he had to do was rock back and" 203 0
+"204" 5200 "forth—it occurred to him how simple everything would be if somebody" 204 0
+"205" 5200 "came to help him. Two strong people—he had his father and the maid in" 205 0
+"206" 5200 "mind—would have been more than enough; they would only have to push" 206 0
+"207" 5200 "their arms under the dome of his back, peel him away from the bed, bend" 207 0
+"208" 5200 "down with the load and then be patient and careful as he swang over" 208 0
+"209" 5200 "onto the floor, where, hopefully, the little legs would find a use." 209 0
+"210" 5200 "Should he really call for help though, even apart from the fact that" 210 0
+"211" 5200 "all the doors were locked? Despite all the difficulty he was in, he" 211 0
+"212" 5200 "could not suppress a smile at this thought." 212 0
+"213" 5200 "" 213 0
+"214" 5200 "After a while he had already moved so far across that it would have" 214 0
+"215" 5200 "been hard for him to keep his balance if he rocked too hard. The time" 215 0
+"216" 5200 "was now ten past seven and he would have to make a final decision very" 216 0
+"217" 5200 "soon. Then there was a ring at the door of the flat. “That’ll be" 217 0
+"218" 5200 "someone from work”, he said to himself, and froze very still, although" 218 0
+"219" 5200 "his little legs only became all the more lively as they danced around." 219 0
+"220" 5200 "For a moment everything remained quiet. “They’re not opening the door”," 220 0
+"221" 5200 "Gregor said to himself, caught in some nonsensical hope. But then of" 221 0
+"222" 5200 "course, the maid’s firm steps went to the door as ever and opened it." 222 0
+"223" 5200 "Gregor only needed to hear the visitor’s first words of greeting and he" 223 0
+"224" 5200 "knew who it was—the chief clerk himself. Why did Gregor have to be the" 224 0
+"225" 5200 "only one condemned to work for a company where they immediately became" 225 0
+"226" 5200 "highly suspicious at the slightest shortcoming? Were all employees," 226 0
+"227" 5200 "every one of them, louts, was there not one of them who was faithful" 227 0
+"228" 5200 "and devoted who would go so mad with pangs of conscience that he" 228 0
+"229" 5200 "couldn’t get out of bed if he didn’t spend at least a couple of hours" 229 0
+"230" 5200 "in the morning on company business? Was it really not enough to let one" 230 0
+"231" 5200 "of the trainees make enquiries—assuming enquiries were even" 231 0
+"232" 5200 "necessary—did the chief clerk have to come himself, and did they have" 232 0
+"233" 5200 "to show the whole, innocent family that this was so suspicious that" 233 0
+"234" 5200 "only the chief clerk could be trusted to have the wisdom to investigate" 234 0
+"235" 5200 "it? And more because these thoughts had made him upset than through any" 235 0
+"236" 5200 "proper decision, he swang himself with all his force out of the bed." 236 0
+"237" 5200 "There was a loud thump, but it wasn’t really a loud noise. His fall was" 237 0
+"238" 5200 "softened a little by the carpet, and Gregor’s back was also more" 238 0
+"239" 5200 "elastic than he had thought, which made the sound muffled and not too" 239 0
+"240" 5200 "noticeable. He had not held his head carefully enough, though, and hit" 240 0
+"241" 5200 "it as he fell; annoyed and in pain, he turned it and rubbed it against" 241 0
+"242" 5200 "the carpet." 242 0
+"243" 5200 "" 243 0
+"244" 5200 "“Something’s fallen down in there”, said the chief clerk in the room on" 244 0
+"245" 5200 "the left. Gregor tried to imagine whether something of the sort that" 245 0
+"246" 5200 "had happened to him today could ever happen to the chief clerk too; you" 246 0
+"247" 5200 "had to concede that it was possible. But as if in gruff reply to this" 247 0
+"248" 5200 "question, the chief clerk’s firm footsteps in his highly polished boots" 248 0
+"249" 5200 "could now be heard in the adjoining room. From the room on his right," 249 0
+"250" 5200 "Gregor’s sister whispered to him to let him know: “Gregor, the chief" 250 0
+"251" 5200 "clerk is here.” “Yes, I know”, said Gregor to himself; but without" 251 0
+"252" 5200 "daring to raise his voice loud enough for his sister to hear him." 252 0
+"253" 5200 "" 253 0
+"254" 5200 "“Gregor”, said his father now from the room to his left, “the chief" 254 0
+"255" 5200 "clerk has come round and wants to know why you didn’t leave on the" 255 0
+"256" 5200 "early train. We don’t know what to say to him. And anyway, he wants to" 256 0
+"257" 5200 "speak to you personally. So please open up this door. I’m sure he’ll be" 257 0
+"258" 5200 "good enough to forgive the untidiness of your room.” Then the chief" 258 0
+"259" 5200 "clerk called “Good morning, Mr. Samsa”. “He isn’t well”, said his" 259 0
+"260" 5200 "mother to the chief clerk, while his father continued to speak through" 260 0
+"261" 5200 "the door. “He isn’t well, please believe me. Why else would Gregor have" 261 0
+"262" 5200 "missed a train! The lad only ever thinks about the business. It nearly" 262 0
+"263" 5200 "makes me cross the way he never goes out in the evenings; he’s been in" 263 0
+"264" 5200 "town for a week now but stayed home every evening. He sits with us in" 264 0
+"265" 5200 "the kitchen and just reads the paper or studies train timetables. His" 265 0
+"266" 5200 "idea of relaxation is working with his fretsaw. He’s made a little" 266 0
+"267" 5200 "frame, for instance, it only took him two or three evenings, you’ll be" 267 0
+"268" 5200 "amazed how nice it is; it’s hanging up in his room; you’ll see it as" 268 0
+"269" 5200 "soon as Gregor opens the door. Anyway, I’m glad you’re here; we" 269 0
+"270" 5200 "wouldn’t have been able to get Gregor to open the door by ourselves;" 270 0
+"271" 5200 "he’s so stubborn; and I’m sure he isn’t well, he said this morning that" 271 0
+"272" 5200 "he is, but he isn’t.” “I’ll be there in a moment”, said Gregor slowly" 272 0
+"273" 5200 "and thoughtfully, but without moving so that he would not miss any word" 273 0
+"274" 5200 "of the conversation. “Well I can’t think of any other way of explaining" 274 0
+"275" 5200 "it, Mrs. Samsa”, said the chief clerk, “I hope it’s nothing serious." 275 0
+"276" 5200 "But on the other hand, I must say that if we people in commerce ever" 276 0
+"277" 5200 "become slightly unwell then, fortunately or unfortunately as you like," 277 0
+"278" 5200 "we simply have to overcome it because of business considerations.” “Can" 278 0
+"279" 5200 "the chief clerk come in to see you now then?”, asked his father" 279 0
+"280" 5200 "impatiently, knocking at the door again. “No”, said Gregor. In the room" 280 0
+"281" 5200 "on his right there followed a painful silence; in the room on his left" 281 0
+"282" 5200 "his sister began to cry." 282 0
+"283" 5200 "" 283 0
+"284" 5200 "So why did his sister not go and join the others? She had probably only" 284 0
+"285" 5200 "just got up and had not even begun to get dressed. And why was she" 285 0
+"286" 5200 "crying? Was it because he had not got up, and had not let the chief" 286 0
+"287" 5200 "clerk in, because he was in danger of losing his job and if that" 287 0
+"288" 5200 "happened his boss would once more pursue their parents with the same" 288 0
+"289" 5200 "demands as before? There was no need to worry about things like that" 289 0
+"290" 5200 "yet. Gregor was still there and had not the slightest intention of" 290 0
+"291" 5200 "abandoning his family. For the time being he just lay there on the" 291 0
+"292" 5200 "carpet, and no-one who knew the condition he was in would seriously" 292 0
+"293" 5200 "have expected him to let the chief clerk in. It was only a minor" 293 0
+"294" 5200 "discourtesy, and a suitable excuse could easily be found for it later" 294 0
+"295" 5200 "on, it was not something for which Gregor could be sacked on the spot." 295 0
+"296" 5200 "And it seemed to Gregor much more sensible to leave him now in peace" 296 0
+"297" 5200 "instead of disturbing him with talking at him and crying. But the" 297 0
+"298" 5200 "others didn’t know what was happening, they were worried, that would" 298 0
+"299" 5200 "excuse their behaviour." 299 0
+"300" 5200 "" 300 0
+"301" 5200 "The chief clerk now raised his voice, “Mr. Samsa”, he called to him," 301 0
+"302" 5200 "“what is wrong? You barricade yourself in your room, give us no more" 302 0
+"303" 5200 "than yes or no for an answer, you are causing serious and unnecessary" 303 0
+"304" 5200 "concern to your parents and you fail—and I mention this just by the" 304 0
+"305" 5200 "way—you fail to carry out your business duties in a way that is quite" 305 0
+"306" 5200 "unheard of. I’m speaking here on behalf of your parents and of your" 306 0
+"307" 5200 "employer, and really must request a clear and immediate explanation. I" 307 0
+"308" 5200 "am astonished, quite astonished. I thought I knew you as a calm and" 308 0
+"309" 5200 "sensible person, and now you suddenly seem to be showing off with" 309 0
+"310" 5200 "peculiar whims. This morning, your employer did suggest a possible" 310 0
+"311" 5200 "reason for your failure to appear, it’s true—it had to do with the" 311 0
+"312" 5200 "money that was recently entrusted to you—but I came near to giving him" 312 0
+"313" 5200 "my word of honour that that could not be the right explanation. But now" 313 0
+"314" 5200 "that I see your incomprehensible stubbornness I no longer feel any wish" 314 0
+"315" 5200 "whatsoever to intercede on your behalf. And nor is your position all" 315 0
+"316" 5200 "that secure. I had originally intended to say all this to you in" 316 0
+"317" 5200 "private, but since you cause me to waste my time here for no good" 317 0
+"318" 5200 "reason I don’t see why your parents should not also learn of it. Your" 318 0
+"319" 5200 "turnover has been very unsatisfactory of late; I grant you that it’s" 319 0
+"320" 5200 "not the time of year to do especially good business, we recognise that;" 320 0
+"321" 5200 "but there simply is no time of year to do no business at all, Mr." 321 0
+"322" 5200 "Samsa, we cannot allow there to be.”" 322 0
+"323" 5200 "" 323 0
+"324" 5200 "“But Sir”, called Gregor, beside himself and forgetting all else in the" 324 0
+"325" 5200 "excitement, “I’ll open up immediately, just a moment. I’m slightly" 325 0
+"326" 5200 "unwell, an attack of dizziness, I haven’t been able to get up. I’m" 326 0
+"327" 5200 "still in bed now. I’m quite fresh again now, though. I’m just getting" 327 0
+"328" 5200 "out of bed. Just a moment. Be patient! It’s not quite as easy as I’d" 328 0
+"329" 5200 "thought. I’m quite alright now, though. It’s shocking, what can" 329 0
+"330" 5200 "suddenly happen to a person! I was quite alright last night, my parents" 330 0
+"331" 5200 "know about it, perhaps better than me, I had a small symptom of it last" 331 0
+"332" 5200 "night already. They must have noticed it. I don’t know why I didn’t let" 332 0
+"333" 5200 "you know at work! But you always think you can get over an illness" 333 0
+"334" 5200 "without staying at home. Please, don’t make my parents suffer! There’s" 334 0
+"335" 5200 "no basis for any of the accusations you’re making; nobody’s ever said a" 335 0
+"336" 5200 "word to me about any of these things. Maybe you haven’t read the latest" 336 0
+"337" 5200 "contracts I sent in. I’ll set off with the eight o’clock train, as" 337 0
+"338" 5200 "well, these few hours of rest have given me strength. You don’t need to" 338 0
+"339" 5200 "wait, sir; I’ll be in the office soon after you, and please be so good" 339 0
+"340" 5200 "as to tell that to the boss and recommend me to him!”" 340 0
+"341" 5200 "" 341 0
+"342" 5200 "And while Gregor gushed out these words, hardly knowing what he was" 342 0
+"343" 5200 "saying, he made his way over to the chest of drawers—this was easily" 343 0
+"344" 5200 "done, probably because of the practise he had already had in bed—where" 344 0
+"345" 5200 "he now tried to get himself upright. He really did want to open the" 345 0
+"346" 5200 "door, really did want to let them see him and to speak with the chief" 346 0
+"347" 5200 "clerk; the others were being so insistent, and he was curious to learn" 347 0
+"348" 5200 "what they would say when they caught sight of him. If they were shocked" 348 0
+"349" 5200 "then it would no longer be Gregor’s responsibility and he could rest." 349 0
+"350" 5200 "If, however, they took everything calmly he would still have no reason" 350 0
+"351" 5200 "to be upset, and if he hurried he really could be at the station for" 351 0
+"352" 5200 "eight o’clock. The first few times he tried to climb up on the smooth" 352 0
+"353" 5200 "chest of drawers he just slid down again, but he finally gave himself" 353 0
+"354" 5200 "one last swing and stood there upright; the lower part of his body was" 354 0
+"355" 5200 "in serious pain but he no longer gave any attention to it. Now he let" 355 0
+"356" 5200 "himself fall against the back of a nearby chair and held tightly to the" 356 0
+"357" 5200 "edges of it with his little legs. By now he had also calmed down, and" 357 0
+"358" 5200 "kept quiet so that he could listen to what the chief clerk was saying." 358 0
+"359" 5200 "" 359 0
+"360" 5200 "“Did you understand a word of all that?” the chief clerk asked his" 360 0
+"361" 5200 "parents, “surely he’s not trying to make fools of us”. “Oh, God!”" 361 0
+"362" 5200 "called his mother, who was already in tears, “he could be seriously ill" 362 0
+"363" 5200 "and we’re making him suffer. Grete! Grete!” she then cried. “Mother?”" 363 0
+"364" 5200 "his sister called from the other side. They communicated across" 364 0
+"365" 5200 "Gregor’s room. “You’ll have to go for the doctor straight away. Gregor" 365 0
+"366" 5200 "is ill. Quick, get the doctor. Did you hear the way Gregor spoke just" 366 0
+"367" 5200 "now?” “That was the voice of an animal”, said the chief clerk, with a" 367 0
+"368" 5200 "calmness that was in contrast with his mother’s screams. “Anna! Anna!”" 368 0
+"369" 5200 "his father called into the kitchen through the entrance hall, clapping" 369 0
+"370" 5200 "his hands, “get a locksmith here, now!” And the two girls, their skirts" 370 0
+"371" 5200 "swishing, immediately ran out through the hall, wrenching open the" 371 0
+"372" 5200 "front door of the flat as they went. How had his sister managed to get" 372 0
+"373" 5200 "dressed so quickly? There was no sound of the door banging shut again;" 373 0
+"374" 5200 "they must have left it open; people often do in homes where something" 374 0
+"375" 5200 "awful has happened." 375 0
+"376" 5200 "" 376 0
+"377" 5200 "Gregor, in contrast, had become much calmer. So they couldn’t" 377 0
+"378" 5200 "understand his words any more, although they seemed clear enough to" 378 0
+"379" 5200 "him, clearer than before—perhaps his ears had become used to the sound." 379 0
+"380" 5200 "They had realised, though, that there was something wrong with him, and" 380 0
+"381" 5200 "were ready to help. The first response to his situation had been" 381 0
+"382" 5200 "confident and wise, and that made him feel better. He felt that he had" 382 0
+"383" 5200 "been drawn back in among people, and from the doctor and the locksmith" 383 0
+"384" 5200 "he expected great and surprising achievements—although he did not" 384 0
+"385" 5200 "really distinguish one from the other. Whatever was said next would be" 385 0
+"386" 5200 "crucial, so, in order to make his voice as clear as possible, he" 386 0
+"387" 5200 "coughed a little, but taking care to do this not too loudly as even" 387 0
+"388" 5200 "this might well sound different from the way that a human coughs and he" 388 0
+"389" 5200 "was no longer sure he could judge this for himself. Meanwhile, it had" 389 0
+"390" 5200 "become very quiet in the next room. Perhaps his parents were sat at the" 390 0
+"391" 5200 "table whispering with the chief clerk, or perhaps they were all pressed" 391 0
+"392" 5200 "against the door and listening." 392 0
+"393" 5200 "" 393 0
+"394" 5200 "Gregor slowly pushed his way over to the door with the chair. Once" 394 0
+"395" 5200 "there he let go of it and threw himself onto the door, holding himself" 395 0
+"396" 5200 "upright against it using the adhesive on the tips of his legs. He" 396 0
+"397" 5200 "rested there a little while to recover from the effort involved and" 397 0
+"398" 5200 "then set himself to the task of turning the key in the lock with his" 398 0
+"399" 5200 "mouth. He seemed, unfortunately, to have no proper teeth—how was he," 399 0
+"400" 5200 "then, to grasp the key?—but the lack of teeth was, of course, made up" 400 0
+"401" 5200 "for with a very strong jaw; using the jaw, he really was able to start" 401 0
+"402" 5200 "the key turning, ignoring the fact that he must have been causing some" 402 0
+"403" 5200 "kind of damage as a brown fluid came from his mouth, flowed over the" 403 0
+"404" 5200 "key and dripped onto the floor. “Listen”, said the chief clerk in the" 404 0
+"405" 5200 "next room, “he’s turning the key.” Gregor was greatly encouraged by" 405 0
+"406" 5200 "this; but they all should have been calling to him, his father and his" 406 0
+"407" 5200 "mother too: “Well done, Gregor”, they should have cried, “keep at it," 407 0
+"408" 5200 "keep hold of the lock!” And with the idea that they were all excitedly" 408 0
+"409" 5200 "following his efforts, he bit on the key with all his strength, paying" 409 0
+"410" 5200 "no attention to the pain he was causing himself. As the key turned" 410 0
+"411" 5200 "round he turned around the lock with it, only holding himself upright" 411 0
+"412" 5200 "with his mouth, and hung onto the key or pushed it down again with the" 412 0
+"413" 5200 "whole weight of his body as needed. The clear sound of the lock as it" 413 0
+"414" 5200 "snapped back was Gregor’s sign that he could break his concentration," 414 0
+"415" 5200 "and as he regained his breath he said to himself: “So, I didn’t need" 415 0
+"416" 5200 "the locksmith after all”. Then he lay his head on the handle of the" 416 0
+"417" 5200 "door to open it completely." 417 0
+"418" 5200 "" 418 0
+"419" 5200 "Because he had to open the door in this way, it was already wide open" 419 0
+"420" 5200 "before he could be seen. He had first to slowly turn himself around one" 420 0
+"421" 5200 "of the double doors, and he had to do it very carefully if he did not" 421 0
+"422" 5200 "want to fall flat on his back before entering the room. He was still" 422 0
+"423" 5200 "occupied with this difficult movement, unable to pay attention to" 423 0
+"424" 5200 "anything else, when he heard the chief clerk exclaim a loud “Oh!”," 424 0
+"425" 5200 "which sounded like the soughing of the wind. Now he also saw him—he was" 425 0
+"426" 5200 "the nearest to the door—his hand pressed against his open mouth and" 426 0
+"427" 5200 "slowly retreating as if driven by a steady and invisible force." 427 0
+"428" 5200 "Gregor’s mother, her hair still dishevelled from bed despite the chief" 428 0
+"429" 5200 "clerk’s being there, looked at his father. Then she unfolded her arms," 429 0
+"430" 5200 "took two steps forward towards Gregor and sank down onto the floor into" 430 0
+"431" 5200 "her skirts that spread themselves out around her as her head" 431 0
+"432" 5200 "disappeared down onto her breast. His father looked hostile, and" 432 0
+"433" 5200 "clenched his fists as if wanting to knock Gregor back into his room." 433 0
+"434" 5200 "Then he looked uncertainly round the living room, covered his eyes with" 434 0
+"435" 5200 "his hands and wept so that his powerful chest shook." 435 0
+"436" 5200 "" 436 0
+"437" 5200 "So Gregor did not go into the room, but leant against the inside of the" 437 0
+"438" 5200 "other door which was still held bolted in place. In this way only half" 438 0
+"439" 5200 "of his body could be seen, along with his head above it which he leant" 439 0
+"440" 5200 "over to one side as he peered out at the others. Meanwhile the day had" 440 0
+"441" 5200 "become much lighter; part of the endless, grey-black building on the" 441 0
+"442" 5200 "other side of the street—which was a hospital—could be seen quite" 442 0
+"443" 5200 "clearly with the austere and regular line of windows piercing its" 443 0
+"444" 5200 "façade; the rain was still falling, now throwing down large, individual" 444 0
+"445" 5200 "droplets which hit the ground one at a time. The washing up from" 445 0
+"446" 5200 "breakfast lay on the table; there was so much of it because, for" 446 0
+"447" 5200 "Gregor’s father, breakfast was the most important meal of the day and" 447 0
+"448" 5200 "he would stretch it out for several hours as he sat reading a number of" 448 0
+"449" 5200 "different newspapers. On the wall exactly opposite there was photograph" 449 0
+"450" 5200 "of Gregor when he was a lieutenant in the army, his sword in his hand" 450 0
+"451" 5200 "and a carefree smile on his face as he called forth respect for his" 451 0
+"452" 5200 "uniform and bearing. The door to the entrance hall was open and as the" 452 0
+"453" 5200 "front door of the flat was also open he could see onto the landing and" 453 0
+"454" 5200 "the stairs where they began their way down below." 454 0
+"455" 5200 "" 455 0
+"456" 5200 "“Now, then”, said Gregor, well aware that he was the only one to have" 456 0
+"457" 5200 "kept calm, “I’ll get dressed straight away now, pack up my samples and" 457 0
+"458" 5200 "set off. Will you please just let me leave? You can see”, he said to" 458 0
+"459" 5200 "the chief clerk, “that I’m not stubborn and I like to do my job; being" 459 0
+"460" 5200 "a commercial traveller is arduous but without travelling I couldn’t" 460 0
+"461" 5200 "earn my living. So where are you going, in to the office? Yes? Will you" 461 0
+"462" 5200 "report everything accurately, then? It’s quite possible for someone to" 462 0
+"463" 5200 "be temporarily unable to work, but that’s just the right time to" 463 0
+"464" 5200 "remember what’s been achieved in the past and consider that later on," 464 0
+"465" 5200 "once the difficulty has been removed, he will certainly work with all" 465 0
+"466" 5200 "the more diligence and concentration. You’re well aware that I’m" 466 0
+"467" 5200 "seriously in debt to our employer as well as having to look after my" 467 0
+"468" 5200 "parents and my sister, so that I’m trapped in a difficult situation," 468 0
+"469" 5200 "but I will work my way out of it again. Please don’t make things any" 469 0
+"470" 5200 "harder for me than they are already, and don’t take sides against me at" 470 0
+"471" 5200 "the office. I know that nobody likes the travellers. They think we earn" 471 0
+"472" 5200 "an enormous wage as well as having a soft time of it. That’s just" 472 0
+"473" 5200 "prejudice but they have no particular reason to think better of it. But" 473 0
+"474" 5200 "you, sir, you have a better overview than the rest of the staff, in" 474 0
+"475" 5200 "fact, if I can say this in confidence, a better overview than the boss" 475 0
+"476" 5200 "himself—it’s very easy for a businessman like him to make mistakes" 476 0
+"477" 5200 "about his employees and judge them more harshly than he should. And" 477 0
+"478" 5200 "you’re also well aware that we travellers spend almost the whole year" 478 0
+"479" 5200 "away from the office, so that we can very easily fall victim to gossip" 479 0
+"480" 5200 "and chance and groundless complaints, and it’s almost impossible to" 480 0
+"481" 5200 "defend yourself from that sort of thing, we don’t usually even hear" 481 0
+"482" 5200 "about them, or if at all it’s when we arrive back home exhausted from a" 482 0
+"483" 5200 "trip, and that’s when we feel the harmful effects of what’s been going" 483 0
+"484" 5200 "on without even knowing what caused them. Please, don’t go away, at" 484 0
+"485" 5200 "least first say something to show that you grant that I’m at least" 485 0
+"486" 5200 "partly right!”" 486 0
+"487" 5200 "" 487 0
+"488" 5200 "But the chief clerk had turned away as soon as Gregor had started to" 488 0
+"489" 5200 "speak, and, with protruding lips, only stared back at him over his" 489 0
+"490" 5200 "trembling shoulders as he left. He did not keep still for a moment" 490 0
+"491" 5200 "while Gregor was speaking, but moved steadily towards the door without" 491 0
+"492" 5200 "taking his eyes off him. He moved very gradually, as if there had been" 492 0
+"493" 5200 "some secret prohibition on leaving the room. It was only when he had" 493 0
+"494" 5200 "reached the entrance hall that he made a sudden movement, drew his foot" 494 0
+"495" 5200 "from the living room, and rushed forward in a panic. In the hall, he" 495 0
+"496" 5200 "stretched his right hand far out towards the stairway as if out there," 496 0
+"497" 5200 "there were some supernatural force waiting to save him." 497 0
+"498" 5200 "" 498 0
+"499" 5200 "Gregor realised that it was out of the question to let the chief clerk" 499 0
+"500" 5200 "go away in this mood if his position in the firm was not to be put into" 500 0
+"501" 5200 "extreme danger. That was something his parents did not understand very" 501 0
+"502" 5200 "well; over the years, they had become convinced that this job would" 502 0
+"503" 5200 "provide for Gregor for his entire life, and besides, they had so much" 503 0
+"504" 5200 "to worry about at present that they had lost sight of any thought for" 504 0
+"505" 5200 "the future. Gregor, though, did think about the future. The chief clerk" 505 0
+"506" 5200 "had to be held back, calmed down, convinced and finally won over; the" 506 0
+"507" 5200 "future of Gregor and his family depended on it! If only his sister were" 507 0
+"508" 5200 "here! She was clever; she was already in tears while Gregor was still" 508 0
+"509" 5200 "lying peacefully on his back. And the chief clerk was a lover of women," 509 0
+"510" 5200 "surely she could persuade him; she would close the front door in the" 510 0
+"511" 5200 "entrance hall and talk him out of his shocked state. But his sister was" 511 0
+"512" 5200 "not there, Gregor would have to do the job himself. And without" 512 0
+"513" 5200 "considering that he still was not familiar with how well he could move" 513 0
+"514" 5200 "about in his present state, or that his speech still might not—or" 514 0
+"515" 5200 "probably would not—be understood, he let go of the door; pushed himself" 515 0
+"516" 5200 "through the opening; tried to reach the chief clerk on the landing who," 516 0
+"517" 5200 "ridiculously, was holding on to the banister with both hands; but" 517 0
+"518" 5200 "Gregor fell immediately over and, with a little scream as he sought" 518 0
+"519" 5200 "something to hold onto, landed on his numerous little legs. Hardly had" 519 0
+"520" 5200 "that happened than, for the first time that day, he began to feel" 520 0
+"521" 5200 "alright with his body; the little legs had the solid ground under them;" 521 0
+"522" 5200 "to his pleasure, they did exactly as he told them; they were even" 522 0
+"523" 5200 "making the effort to carry him where he wanted to go; and he was soon" 523 0
+"524" 5200 "believing that all his sorrows would soon be finally at an end. He held" 524 0
+"525" 5200 "back the urge to move but swayed from side to side as he crouched there" 525 0
+"526" 5200 "on the floor. His mother was not far away in front of him and seemed," 526 0
+"527" 5200 "at first, quite engrossed in herself, but then she suddenly jumped up" 527 0
+"528" 5200 "with her arms outstretched and her fingers spread shouting: “Help, for" 528 0
+"529" 5200 "pity’s sake, Help!” The way she held her head suggested she wanted to" 529 0
+"530" 5200 "see Gregor better, but the unthinking way she was hurrying backwards" 530 0
+"531" 5200 "showed that she did not; she had forgotten that the table was behind" 531 0
+"532" 5200 "her with all the breakfast things on it; when she reached the table she" 532 0
+"533" 5200 "sat quickly down on it without knowing what she was doing; without even" 533 0
+"534" 5200 "seeming to notice that the coffee pot had been knocked over and a gush" 534 0
+"535" 5200 "of coffee was pouring down onto the carpet." 535 0
+"536" 5200 "" 536 0
+"537" 5200 "“Mother, mother”, said Gregor gently, looking up at her. He had" 537 0
+"538" 5200 "completely forgotten the chief clerk for the moment, but could not help" 538 0
+"539" 5200 "himself snapping in the air with his jaws at the sight of the flow of" 539 0
+"540" 5200 "coffee. That set his mother screaming anew, she fled from the table and" 540 0
+"541" 5200 "into the arms of his father as he rushed towards her. Gregor, though," 541 0
+"542" 5200 "had no time to spare for his parents now; the chief clerk had already" 542 0
+"543" 5200 "reached the stairs; with his chin on the banister, he looked back for" 543 0
+"544" 5200 "the last time. Gregor made a run for him; he wanted to be sure of" 544 0
+"545" 5200 "reaching him; the chief clerk must have expected something, as he leapt" 545 0
+"546" 5200 "down several steps at once and disappeared; his shouts resounding all" 546 0
+"547" 5200 "around the staircase. The flight of the chief clerk seemed," 547 0
+"548" 5200 "unfortunately, to put Gregor’s father into a panic as well. Until then" 548 0
+"549" 5200 "he had been relatively self controlled, but now, instead of running" 549 0
+"550" 5200 "after the chief clerk himself, or at least not impeding Gregor as he" 550 0
+"551" 5200 "ran after him, Gregor’s father seized the chief clerk’s stick in his" 551 0
+"552" 5200 "right hand (the chief clerk had left it behind on a chair, along with" 552 0
+"553" 5200 "his hat and overcoat), picked up a large newspaper from the table with" 553 0
+"554" 5200 "his left, and used them to drive Gregor back into his room, stamping" 554 0
+"555" 5200 "his foot at him as he went. Gregor’s appeals to his father were of no" 555 0
+"556" 5200 "help, his appeals were simply not understood, however much he humbly" 556 0
+"557" 5200 "turned his head his father merely stamped his foot all the harder." 557 0
+"558" 5200 "Across the room, despite the chilly weather, Gregor’s mother had pulled" 558 0
+"559" 5200 "open a window, leant far out of it and pressed her hands to her face. A" 559 0
+"560" 5200 "strong draught of air flew in from the street towards the stairway, the" 560 0
+"561" 5200 "curtains flew up, the newspapers on the table fluttered and some of" 561 0
+"562" 5200 "them were blown onto the floor. Nothing would stop Gregor’s father as" 562 0
+"563" 5200 "he drove him back, making hissing noises at him like a wild man. Gregor" 563 0
+"564" 5200 "had never had any practice in moving backwards and was only able to go" 564 0
+"565" 5200 "very slowly. If Gregor had only been allowed to turn round he would" 565 0
+"566" 5200 "have been back in his room straight away, but he was afraid that if he" 566 0
+"567" 5200 "took the time to do that his father would become impatient, and there" 567 0
+"568" 5200 "was the threat of a lethal blow to his back or head from the stick in" 568 0
+"569" 5200 "his father’s hand any moment. Eventually, though, Gregor realised that" 569 0
+"570" 5200 "he had no choice as he saw, to his disgust, that he was quite incapable" 570 0
+"571" 5200 "of going backwards in a straight line; so he began, as quickly as" 571 0
+"572" 5200 "possible and with frequent anxious glances at his father, to turn" 572 0
+"573" 5200 "himself round. It went very slowly, but perhaps his father was able to" 573 0
+"574" 5200 "see his good intentions as he did nothing to hinder him, in fact now" 574 0
+"575" 5200 "and then he used the tip of his stick to give directions from a" 575 0
+"576" 5200 "distance as to which way to turn. If only his father would stop that" 576 0
+"577" 5200 "unbearable hissing! It was making Gregor quite confused. When he had" 577 0
+"578" 5200 "nearly finished turning round, still listening to that hissing, he made" 578 0
+"579" 5200 "a mistake and turned himself back a little the way he had just come. He" 579 0
+"580" 5200 "was pleased when he finally had his head in front of the doorway, but" 580 0
+"581" 5200 "then saw that it was too narrow, and his body was too broad to get" 581 0
+"582" 5200 "through it without further difficulty. In his present mood, it" 582 0
+"583" 5200 "obviously did not occur to his father to open the other of the double" 583 0
+"584" 5200 "doors so that Gregor would have enough space to get through. He was" 584 0
+"585" 5200 "merely fixed on the idea that Gregor should be got back into his room" 585 0
+"586" 5200 "as quickly as possible. Nor would he ever have allowed Gregor the time" 586 0
+"587" 5200 "to get himself upright as preparation for getting through the doorway." 587 0
+"588" 5200 "What he did, making more noise than ever, was to drive Gregor forwards" 588 0
+"589" 5200 "all the harder as if there had been nothing in the way; it sounded to" 589 0
+"590" 5200 "Gregor as if there was now more than one father behind him; it was not" 590 0
+"591" 5200 "a pleasant experience, and Gregor pushed himself into the doorway" 591 0
+"592" 5200 "without regard for what might happen. One side of his body lifted" 592 0
+"593" 5200 "itself, he lay at an angle in the doorway, one flank scraped on the" 593 0
+"594" 5200 "white door and was painfully injured, leaving vile brown flecks on it," 594 0
+"595" 5200 "soon he was stuck fast and would not have been able to move at all by" 595 0
+"596" 5200 "himself, the little legs along one side hung quivering in the air while" 596 0
+"597" 5200 "those on the other side were pressed painfully against the ground. Then" 597 0
+"598" 5200 "his father gave him a hefty shove from behind which released him from" 598 0
+"599" 5200 "where he was held and sent him flying, and heavily bleeding, deep into" 599 0
+"600" 5200 "his room. The door was slammed shut with the stick, then, finally, all" 600 0
+"601" 5200 "was quiet." 601 0
+"602" 5200 "" 602 0
+"603" 5200 "" 603 0
+"604" 5200 "" 604 0
+"605" 5200 "" 605 0
+"606" 5200 "<chapter II>" 606 0
+"607" 5200 "" 607 0
+"608" 5200 "" 608 0
+"609" 5200 "It was not until it was getting dark that evening that Gregor awoke" 609 0
+"610" 5200 "from his deep and coma-like sleep. He would have woken soon afterwards" 610 0
+"611" 5200 "anyway even if he hadn’t been disturbed, as he had had enough sleep and" 611 0
+"612" 5200 "felt fully rested. But he had the impression that some hurried steps" 612 0
+"613" 5200 "and the sound of the door leading into the front room being carefully" 613 0
+"614" 5200 "shut had woken him. The light from the electric street lamps shone" 614 0
+"615" 5200 "palely here and there onto the ceiling and tops of the furniture, but" 615 0
+"616" 5200 "down below, where Gregor was, it was dark. He pushed himself over to" 616 0
+"617" 5200 "the door, feeling his way clumsily with his antennae—of which he was" 617 0
+"618" 5200 "now beginning to learn the value—in order to see what had been" 618 0
+"619" 5200 "happening there. The whole of his left side seemed like one, painfully" 619 0
+"620" 5200 "stretched scar, and he limped badly on his two rows of legs. One of the" 620 0
+"621" 5200 "legs had been badly injured in the events of that morning—it was nearly" 621 0
+"622" 5200 "a miracle that only one of them had been—and dragged along lifelessly." 622 0
+"623" 5200 "" 623 0
+"624" 5200 "It was only when he had reached the door that he realised what it" 624 0
+"625" 5200 "actually was that had drawn him over to it; it was the smell of" 625 0
+"626" 5200 "something to eat. By the door there was a dish filled with sweetened" 626 0
+"627" 5200 "milk with little pieces of white bread floating in it. He was so" 627 0
+"628" 5200 "pleased he almost laughed, as he was even hungrier than he had been" 628 0
+"629" 5200 "that morning, and immediately dipped his head into the milk, nearly" 629 0
+"630" 5200 "covering his eyes with it. But he soon drew his head back again in" 630 0
+"631" 5200 "disappointment; not only did the pain in his tender left side make it" 631 0
+"632" 5200 "difficult to eat the food—he was only able to eat if his whole body" 632 0
+"633" 5200 "worked together as a snuffling whole—but the milk did not taste at all" 633 0
+"634" 5200 "nice. Milk like this was normally his favourite drink, and his sister" 634 0
+"635" 5200 "had certainly left it there for him because of that, but he turned," 635 0
+"636" 5200 "almost against his own will, away from the dish and crawled back into" 636 0
+"637" 5200 "the centre of the room." 637 0
+"638" 5200 "" 638 0
+"639" 5200 "Through the crack in the door, Gregor could see that the gas had been" 639 0
+"640" 5200 "lit in the living room. His father at this time would normally be sat" 640 0
+"641" 5200 "with his evening paper, reading it out in a loud voice to Gregor’s" 641 0
+"642" 5200 "mother, and sometimes to his sister, but there was now not a sound to" 642 0
+"643" 5200 "be heard. Gregor’s sister would often write and tell him about this" 643 0
+"644" 5200 "reading, but maybe his father had lost the habit in recent times. It" 644 0
+"645" 5200 "was so quiet all around too, even though there must have been somebody" 645 0
+"646" 5200 "in the flat. “What a quiet life it is the family lead”, said Gregor to" 646 0
+"647" 5200 "himself, and, gazing into the darkness, felt a great pride that he was" 647 0
+"648" 5200 "able to provide a life like that in such a nice home for his sister and" 648 0
+"649" 5200 "parents. But what now, if all this peace and wealth and comfort should" 649 0
+"650" 5200 "come to a horrible and frightening end? That was something that Gregor" 650 0
+"651" 5200 "did not want to think about too much, so he started to move about," 651 0
+"652" 5200 "crawling up and down the room." 652 0
+"653" 5200 "" 653 0
+"654" 5200 "Once during that long evening, the door on one side of the room was" 654 0
+"655" 5200 "opened very slightly and hurriedly closed again; later on the door on" 655 0
+"656" 5200 "the other side did the same; it seemed that someone needed to enter the" 656 0
+"657" 5200 "room but thought better of it. Gregor went and waited immediately by" 657 0
+"658" 5200 "the door, resolved either to bring the timorous visitor into the room" 658 0
+"659" 5200 "in some way or at least to find out who it was; but the door was opened" 659 0
+"660" 5200 "no more that night and Gregor waited in vain. The previous morning" 660 0
+"661" 5200 "while the doors were locked everyone had wanted to get in there to him," 661 0
+"662" 5200 "but now, now that he had opened up one of the doors and the other had" 662 0
+"663" 5200 "clearly been unlocked some time during the day, no-one came, and the" 663 0
+"664" 5200 "keys were in the other sides." 664 0
+"665" 5200 "" 665 0
+"666" 5200 "It was not until late at night that the gaslight in the living room was" 666 0
+"667" 5200 "put out, and now it was easy to see that his parents and sister had" 667 0
+"668" 5200 "stayed awake all that time, as they all could be distinctly heard as" 668 0
+"669" 5200 "they went away together on tip-toe. It was clear that no-one would come" 669 0
+"670" 5200 "into Gregor’s room any more until morning; that gave him plenty of time" 670 0
+"671" 5200 "to think undisturbed about how he would have to re-arrange his life." 671 0
+"672" 5200 "For some reason, the tall, empty room where he was forced to remain" 672 0
+"673" 5200 "made him feel uneasy as he lay there flat on the floor, even though he" 673 0
+"674" 5200 "had been living in it for five years. Hardly aware of what he was doing" 674 0
+"675" 5200 "other than a slight feeling of shame, he hurried under the couch. It" 675 0
+"676" 5200 "pressed down on his back a little, and he was no longer able to lift" 676 0
+"677" 5200 "his head, but he nonetheless felt immediately at ease and his only" 677 0
+"678" 5200 "regret was that his body was too broad to get it all underneath." 678 0
+"679" 5200 "" 679 0
+"680" 5200 "He spent the whole night there. Some of the time he passed in a light" 680 0
+"681" 5200 "sleep, although he frequently woke from it in alarm because of his" 681 0
+"682" 5200 "hunger, and some of the time was spent in worries and vague hopes" 682 0
+"683" 5200 "which, however, always led to the same conclusion: for the time being" 683 0
+"684" 5200 "he must remain calm, he must show patience and the greatest" 684 0
+"685" 5200 "consideration so that his family could bear the unpleasantness that he," 685 0
+"686" 5200 "in his present condition, was forced to impose on them." 686 0
+"687" 5200 "" 687 0
+"688" 5200 "Gregor soon had the opportunity to test the strength of his decisions," 688 0
+"689" 5200 "as early the next morning, almost before the night had ended, his" 689 0
+"690" 5200 "sister, nearly fully dressed, opened the door from the front room and" 690 0
+"691" 5200 "looked anxiously in. She did not see him straight away, but when she" 691 0
+"692" 5200 "did notice him under the couch—he had to be somewhere, for God’s sake," 692 0
+"693" 5200 "he couldn’t have flown away—she was so shocked that she lost control of" 693 0
+"694" 5200 "herself and slammed the door shut again from outside. But she seemed to" 694 0
+"695" 5200 "regret her behaviour, as she opened the door again straight away and" 695 0
+"696" 5200 "came in on tip-toe as if entering the room of someone seriously ill or" 696 0
+"697" 5200 "even of a stranger. Gregor had pushed his head forward, right to the" 697 0
+"698" 5200 "edge of the couch, and watched her. Would she notice that he had left" 698 0
+"699" 5200 "the milk as it was, realise that it was not from any lack of hunger and" 699 0
+"700" 5200 "bring him in some other food that was more suitable? If she didn’t do" 700 0
+"701" 5200 "it herself he would rather go hungry than draw her attention to it," 701 0
+"702" 5200 "although he did feel a terrible urge to rush forward from under the" 702 0
+"703" 5200 "couch, throw himself at his sister’s feet and beg her for something" 703 0
+"704" 5200 "good to eat. However, his sister noticed the full dish immediately and" 704 0
+"705" 5200 "looked at it and the few drops of milk splashed around it with some" 705 0
+"706" 5200 "surprise. She immediately picked it up—using a rag, not her bare" 706 0
+"707" 5200 "hands—and carried it out. Gregor was extremely curious as to what she" 707 0
+"708" 5200 "would bring in its place, imagining the wildest possibilities, but he" 708 0
+"709" 5200 "never could have guessed what his sister, in her goodness, actually did" 709 0
+"710" 5200 "bring. In order to test his taste, she brought him a whole selection of" 710 0
+"711" 5200 "things, all spread out on an old newspaper. There were old, half-rotten" 711 0
+"712" 5200 "vegetables; bones from the evening meal, covered in white sauce that" 712 0
+"713" 5200 "had gone hard; a few raisins and almonds; some cheese that Gregor had" 713 0
+"714" 5200 "declared inedible two days before; a dry roll and some bread spread" 714 0
+"715" 5200 "with butter and salt. As well as all that she had poured some water" 715 0
+"716" 5200 "into the dish, which had probably been permanently set aside for" 716 0
+"717" 5200 "Gregor’s use, and placed it beside them. Then, out of consideration for" 717 0
+"718" 5200 "Gregor’s feelings, as she knew that he would not eat in front of her," 718 0
+"719" 5200 "she hurried out again and even turned the key in the lock so that" 719 0
+"720" 5200 "Gregor would know he could make things as comfortable for himself as he" 720 0
+"721" 5200 "liked. Gregor’s little legs whirred, at last he could eat. What’s more," 721 0
+"722" 5200 "his injuries must already have completely healed as he found no" 722 0
+"723" 5200 "difficulty in moving. This amazed him, as more than a month earlier he" 723 0
+"724" 5200 "had cut his finger slightly with a knife, he thought of how his finger" 724 0
+"725" 5200 "had still hurt the day before yesterday. “Am I less sensitive than I" 725 0
+"726" 5200 "used to be, then?”, he thought, and was already sucking greedily at the" 726 0
+"727" 5200 "cheese which had immediately, almost compellingly, attracted him much" 727 0
+"728" 5200 "more than the other foods on the newspaper. Quickly one after another," 728 0
+"729" 5200 "his eyes watering with pleasure, he consumed the cheese, the vegetables" 729 0
+"730" 5200 "and the sauce; the fresh foods, on the other hand, he didn’t like at" 730 0
+"731" 5200 "all, and even dragged the things he did want to eat a little way away" 731 0
+"732" 5200 "from them because he couldn’t stand the smell. Long after he had" 732 0
+"733" 5200 "finished eating and lay lethargic in the same place, his sister slowly" 733 0
+"734" 5200 "turned the key in the lock as a sign to him that he should withdraw. He" 734 0
+"735" 5200 "was immediately startled, although he had been half asleep, and he" 735 0
+"736" 5200 "hurried back under the couch. But he needed great self-control to stay" 736 0
+"737" 5200 "there even for the short time that his sister was in the room, as" 737 0
+"738" 5200 "eating so much food had rounded out his body a little and he could" 738 0
+"739" 5200 "hardly breathe in that narrow space. Half suffocating, he watched with" 739 0
+"740" 5200 "bulging eyes as his sister unselfconsciously took a broom and swept up" 740 0
+"741" 5200 "the left-overs, mixing them in with the food he had not even touched at" 741 0
+"742" 5200 "all as if it could not be used any more. She quickly dropped it all" 742 0
+"743" 5200 "into a bin, closed it with its wooden lid, and carried everything out." 743 0
+"744" 5200 "She had hardly turned her back before Gregor came out again from under" 744 0
+"745" 5200 "the couch and stretched himself." 745 0
+"746" 5200 "" 746 0
+"747" 5200 "This was how Gregor received his food each day now, once in the morning" 747 0
+"748" 5200 "while his parents and the maid were still asleep, and the second time" 748 0
+"749" 5200 "after everyone had eaten their meal at midday as his parents would" 749 0
+"750" 5200 "sleep for a little while then as well, and Gregor’s sister would send" 750 0
+"751" 5200 "the maid away on some errand. Gregor’s father and mother certainly did" 751 0
+"752" 5200 "not want him to starve either, but perhaps it would have been more than" 752 0
+"753" 5200 "they could stand to have any more experience of his feeding than being" 753 0
+"754" 5200 "told about it, and perhaps his sister wanted to spare them what" 754 0
+"755" 5200 "distress she could as they were indeed suffering enough." 755 0
+"756" 5200 "" 756 0
+"757" 5200 "It was impossible for Gregor to find out what they had told the doctor" 757 0
+"758" 5200 "and the locksmith that first morning to get them out of the flat. As" 758 0
+"759" 5200 "nobody could understand him, nobody, not even his sister, thought that" 759 0
+"760" 5200 "he could understand them, so he had to be content to hear his sister’s" 760 0
+"761" 5200 "sighs and appeals to the saints as she moved about his room. It was" 761 0
+"762" 5200 "only later, when she had become a little more used to everything—there" 762 0
+"763" 5200 "was, of course, no question of her ever becoming fully used to the" 763 0
+"764" 5200 "situation—that Gregor would sometimes catch a friendly comment, or at" 764 0
+"765" 5200 "least a comment that could be construed as friendly. “He’s enjoyed his" 765 0
+"766" 5200 "dinner today”, she might say when he had diligently cleared away all" 766 0
+"767" 5200 "the food left for him, or if he left most of it, which slowly became" 767 0
+"768" 5200 "more and more frequent, she would often say, sadly, “now everything’s" 768 0
+"769" 5200 "just been left there again”." 769 0
+"770" 5200 "" 770 0
+"771" 5200 "Although Gregor wasn’t able to hear any news directly he did listen to" 771 0
+"772" 5200 "much of what was said in the next rooms, and whenever he heard anyone" 772 0
+"773" 5200 "speaking he would scurry straight to the appropriate door and press his" 773 0
+"774" 5200 "whole body against it. There was seldom any conversation, especially at" 774 0
+"775" 5200 "first, that was not about him in some way, even if only in secret. For" 775 0
+"776" 5200 "two whole days, all the talk at every mealtime was about what they" 776 0
+"777" 5200 "should do now; but even between meals they spoke about the same subject" 777 0
+"778" 5200 "as there were always at least two members of the family at home—nobody" 778 0
+"779" 5200 "wanted to be at home by themselves and it was out of the question to" 779 0
+"780" 5200 "leave the flat entirely empty. And on the very first day the maid had" 780 0
+"781" 5200 "fallen to her knees and begged Gregor’s mother to let her go without" 781 0
+"782" 5200 "delay. It was not very clear how much she knew of what had happened but" 782 0
+"783" 5200 "she left within a quarter of an hour, tearfully thanking Gregor’s" 783 0
+"784" 5200 "mother for her dismissal as if she had done her an enormous service." 784 0
+"785" 5200 "She even swore emphatically not to tell anyone the slightest about what" 785 0
+"786" 5200 "had happened, even though no-one had asked that of her." 786 0
+"787" 5200 "" 787 0
+"788" 5200 "Now Gregor’s sister also had to help his mother with the cooking;" 788 0
+"789" 5200 "although that was not so much bother as no-one ate very much. Gregor" 789 0
+"790" 5200 "often heard how one of them would unsuccessfully urge another to eat," 790 0
+"791" 5200 "and receive no more answer than “no thanks, I’ve had enough” or" 791 0
+"792" 5200 "something similar. No-one drank very much either. His sister would" 792 0
+"793" 5200 "sometimes ask his father whether he would like a beer, hoping for the" 793 0
+"794" 5200 "chance to go and fetch it herself. When his father then said nothing" 794 0
+"795" 5200 "she would add, so that he would not feel selfish, that she could send" 795 0
+"796" 5200 "the housekeeper for it, but then his father would close the matter with" 796 0
+"797" 5200 "a big, loud “No”, and no more would be said." 797 0
+"798" 5200 "" 798 0
+"799" 5200 "Even before the first day had come to an end, his father had explained" 799 0
+"800" 5200 "to Gregor’s mother and sister what their finances and prospects were." 800 0
+"801" 5200 "Now and then he stood up from the table and took some receipt or" 801 0
+"802" 5200 "document from the little cash box he had saved from his business when" 802 0
+"803" 5200 "it had collapsed five years earlier. Gregor heard how he opened the" 803 0
+"804" 5200 "complicated lock and then closed it again after he had taken the item" 804 0
+"805" 5200 "he wanted. What he heard his father say was some of the first good news" 805 0
+"806" 5200 "that Gregor heard since he had first been incarcerated in his room. He" 806 0
+"807" 5200 "had thought that nothing at all remained from his father’s business, at" 807 0
+"808" 5200 "least he had never told him anything different, and Gregor had never" 808 0
+"809" 5200 "asked him about it anyway. Their business misfortune had reduced the" 809 0
+"810" 5200 "family to a state of total despair, and Gregor’s only concern at that" 810 0
+"811" 5200 "time had been to arrange things so that they could all forget about it" 811 0
+"812" 5200 "as quickly as possible. So then he started working especially hard," 812 0
+"813" 5200 "with a fiery vigour that raised him from a junior salesman to a" 813 0
+"814" 5200 "travelling representative almost overnight, bringing with it the chance" 814 0
+"815" 5200 "to earn money in quite different ways. Gregor converted his success at" 815 0
+"816" 5200 "work straight into cash that he could lay on the table at home for the" 816 0
+"817" 5200 "benefit of his astonished and delighted family. They had been good" 817 0
+"818" 5200 "times and they had never come again, at least not with the same" 818 0
+"819" 5200 "splendour, even though Gregor had later earned so much that he was in a" 819 0
+"820" 5200 "position to bear the costs of the whole family, and did bear them. They" 820 0
+"821" 5200 "had even got used to it, both Gregor and the family, they took the" 821 0
+"822" 5200 "money with gratitude and he was glad to provide it, although there was" 822 0
+"823" 5200 "no longer much warm affection given in return. Gregor only remained" 823 0
+"824" 5200 "close to his sister now. Unlike him, she was very fond of music and a" 824 0
+"825" 5200 "gifted and expressive violinist, it was his secret plan to send her to" 825 0
+"826" 5200 "the conservatory next year even though it would cause great expense" 826 0
+"827" 5200 "that would have to be made up for in some other way. During Gregor’s" 827 0
+"828" 5200 "short periods in town, conversation with his sister would often turn to" 828 0
+"829" 5200 "the conservatory but it was only ever mentioned as a lovely dream that" 829 0
+"830" 5200 "could never be realised. Their parents did not like to hear this" 830 0
+"831" 5200 "innocent talk, but Gregor thought about it quite hard and decided he" 831 0
+"832" 5200 "would let them know what he planned with a grand announcement of it on" 832 0
+"833" 5200 "Christmas day." 833 0
+"834" 5200 "" 834 0
+"835" 5200 "That was the sort of totally pointless thing that went through his mind" 835 0
+"836" 5200 "in his present state, pressed upright against the door and listening." 836 0
+"837" 5200 "There were times when he simply became too tired to continue listening," 837 0
+"838" 5200 "when his head would fall wearily against the door and he would pull it" 838 0
+"839" 5200 "up again with a start, as even the slightest noise he caused would be" 839 0
+"840" 5200 "heard next door and they would all go silent. “What’s that he’s doing" 840 0
+"841" 5200 "now”, his father would say after a while, clearly having gone over to" 841 0
+"842" 5200 "the door, and only then would the interrupted conversation slowly be" 842 0
+"843" 5200 "taken up again." 843 0
+"844" 5200 "" 844 0
+"845" 5200 "When explaining things, his father repeated himself several times," 845 0
+"846" 5200 "partly because it was a long time since he had been occupied with these" 846 0
+"847" 5200 "matters himself and partly because Gregor’s mother did not understand" 847 0
+"848" 5200 "everything the first time. From these repeated explanations Gregor" 848 0
+"849" 5200 "learned, to his pleasure, that despite all their misfortunes there was" 849 0
+"850" 5200 "still some money available from the old days. It was not a lot, but it" 850 0
+"851" 5200 "had not been touched in the meantime and some interest had accumulated." 851 0
+"852" 5200 "Besides that, they had not been using up all the money that Gregor had" 852 0
+"853" 5200 "been bringing home every month, keeping only a little for himself, so" 853 0
+"854" 5200 "that that, too, had been accumulating. Behind the door, Gregor nodded" 854 0
+"855" 5200 "with enthusiasm in his pleasure at this unexpected thrift and caution." 855 0
+"856" 5200 "He could actually have used this surplus money to reduce his father’s" 856 0
+"857" 5200 "debt to his boss, and the day when he could have freed himself from" 857 0
+"858" 5200 "that job would have come much closer, but now it was certainly better" 858 0
+"859" 5200 "the way his father had done things." 859 0
+"860" 5200 "" 860 0
+"861" 5200 "This money, however, was certainly not enough to enable the family to" 861 0
+"862" 5200 "live off the interest; it was enough to maintain them for, perhaps, one" 862 0
+"863" 5200 "or two years, no more. That’s to say, it was money that should not" 863 0
+"864" 5200 "really be touched but set aside for emergencies; money to live on had" 864 0
+"865" 5200 "to be earned. His father was healthy but old, and lacking in self" 865 0
+"866" 5200 "confidence. During the five years that he had not been working—the" 866 0
+"867" 5200 "first holiday in a life that had been full of strain and no success—he" 867 0
+"868" 5200 "had put on a lot of weight and become very slow and clumsy. Would" 868 0
+"869" 5200 "Gregor’s elderly mother now have to go and earn money? She suffered" 869 0
+"870" 5200 "from asthma and it was a strain for her just to move about the home," 870 0
+"871" 5200 "every other day would be spent struggling for breath on the sofa by the" 871 0
+"872" 5200 "open window. Would his sister have to go and earn money? She was still" 872 0
+"873" 5200 "a child of seventeen, her life up till then had been very enviable," 873 0
+"874" 5200 "consisting of wearing nice clothes, sleeping late, helping out in the" 874 0
+"875" 5200 "business, joining in with a few modest pleasures and most of all" 875 0
+"876" 5200 "playing the violin. Whenever they began to talk of the need to earn" 876 0
+"877" 5200 "money, Gregor would always first let go of the door and then throw" 877 0
+"878" 5200 "himself onto the cool, leather sofa next to it, as he became quite hot" 878 0
+"879" 5200 "with shame and regret." 879 0
+"880" 5200 "" 880 0
+"881" 5200 "He would often lie there the whole night through, not sleeping a wink" 881 0
+"882" 5200 "but scratching at the leather for hours on end. Or he might go to all" 882 0
+"883" 5200 "the effort of pushing a chair to the window, climbing up onto the sill" 883 0
+"884" 5200 "and, propped up in the chair, leaning on the window to stare out of it." 884 0
+"885" 5200 "He had used to feel a great sense of freedom from doing this, but doing" 885 0
+"886" 5200 "it now was obviously something more remembered than experienced, as" 886 0
+"887" 5200 "what he actually saw in this way was becoming less distinct every day," 887 0
+"888" 5200 "even things that were quite near; he had used to curse the ever-present" 888 0
+"889" 5200 "view of the hospital across the street, but now he could not see it at" 889 0
+"890" 5200 "all, and if he had not known that he lived in Charlottenstrasse, which" 890 0
+"891" 5200 "was a quiet street despite being in the middle of the city, he could" 891 0
+"892" 5200 "have thought that he was looking out the window at a barren waste where" 892 0
+"893" 5200 "the grey sky and the grey earth mingled inseparably. His observant" 893 0
+"894" 5200 "sister only needed to notice the chair twice before she would always" 894 0
+"895" 5200 "push it back to its exact position by the window after she had tidied" 895 0
+"896" 5200 "up the room, and even left the inner pane of the window open from then" 896 0
+"897" 5200 "on." 897 0
+"898" 5200 "" 898 0
+"899" 5200 "If Gregor had only been able to speak to his sister and thank her for" 899 0
+"900" 5200 "all that she had to do for him it would have been easier for him to" 900 0
+"901" 5200 "bear it; but as it was it caused him pain. His sister, naturally, tried" 901 0
+"902" 5200 "as far as possible to pretend there was nothing burdensome about it," 902 0
+"903" 5200 "and the longer it went on, of course, the better she was able to do so," 903 0
+"904" 5200 "but as time went by Gregor was also able to see through it all so much" 904 0
+"905" 5200 "better. It had even become very unpleasant for him, now, whenever she" 905 0
+"906" 5200 "entered the room. No sooner had she come in than she would quickly" 906 0
+"907" 5200 "close the door as a precaution so that no-one would have to suffer the" 907 0
+"908" 5200 "view into Gregor’s room, then she would go straight to the window and" 908 0
+"909" 5200 "pull it hurriedly open almost as if she were suffocating. Even if it" 909 0
+"910" 5200 "was cold, she would stay at the window breathing deeply for a little" 910 0
+"911" 5200 "while. She would alarm Gregor twice a day with this running about and" 911 0
+"912" 5200 "noise making; he would stay under the couch shivering the whole while," 912 0
+"913" 5200 "knowing full well that she would certainly have liked to spare him this" 913 0
+"914" 5200 "ordeal, but it was impossible for her to be in the same room with him" 914 0
+"915" 5200 "with the windows closed." 915 0
+"916" 5200 "" 916 0
+"917" 5200 "One day, about a month after Gregor’s transformation when his sister no" 917 0
+"918" 5200 "longer had any particular reason to be shocked at his appearance, she" 918 0
+"919" 5200 "came into the room a little earlier than usual and found him still" 919 0
+"920" 5200 "staring out the window, motionless, and just where he would be most" 920 0
+"921" 5200 "horrible. In itself, his sister’s not coming into the room would have" 921 0
+"922" 5200 "been no surprise for Gregor as it would have been difficult for her to" 922 0
+"923" 5200 "immediately open the window while he was still there, but not only did" 923 0
+"924" 5200 "she not come in, she went straight back and closed the door behind her," 924 0
+"925" 5200 "a stranger would have thought he had threatened her and tried to bite" 925 0
+"926" 5200 "her. Gregor went straight to hide himself under the couch, of course," 926 0
+"927" 5200 "but he had to wait until midday before his sister came back and she" 927 0
+"928" 5200 "seemed much more uneasy than usual. It made him realise that she still" 928 0
+"929" 5200 "found his appearance unbearable and would continue to do so, she" 929 0
+"930" 5200 "probably even had to overcome the urge to flee when she saw the little" 930 0
+"931" 5200 "bit of him that protruded from under the couch. One day, in order to" 931 0
+"932" 5200 "spare her even this sight, he spent four hours carrying the bedsheet" 932 0
+"933" 5200 "over to the couch on his back and arranged it so that he was completely" 933 0
+"934" 5200 "covered and his sister would not be able to see him even if she bent" 934 0
+"935" 5200 "down. If she did not think this sheet was necessary then all she had to" 935 0
+"936" 5200 "do was take it off again, as it was clear enough that it was no" 936 0
+"937" 5200 "pleasure for Gregor to cut himself off so completely. She left the" 937 0
+"938" 5200 "sheet where it was. Gregor even thought he glimpsed a look of gratitude" 938 0
+"939" 5200 "one time when he carefully looked out from under the sheet to see how" 939 0
+"940" 5200 "his sister liked the new arrangement." 940 0
+"941" 5200 "" 941 0
+"942" 5200 "For the first fourteen days, Gregor’s parents could not bring" 942 0
+"943" 5200 "themselves to come into the room to see him. He would often hear them" 943 0
+"944" 5200 "say how they appreciated all the new work his sister was doing even" 944 0
+"945" 5200 "though, before, they had seen her as a girl who was somewhat useless" 945 0
+"946" 5200 "and frequently been annoyed with her. But now the two of them, father" 946 0
+"947" 5200 "and mother, would often both wait outside the door of Gregor’s room" 947 0
+"948" 5200 "while his sister tidied up in there, and as soon as she went out again" 948 0
+"949" 5200 "she would have to tell them exactly how everything looked, what Gregor" 949 0
+"950" 5200 "had eaten, how he had behaved this time and whether, perhaps, any" 950 0
+"951" 5200 "slight improvement could be seen. His mother also wanted to go in and" 951 0
+"952" 5200 "visit Gregor relatively soon but his father and sister at first" 952 0
+"953" 5200 "persuaded her against it. Gregor listened very closely to all this, and" 953 0
+"954" 5200 "approved fully. Later, though, she had to be held back by force, which" 954 0
+"955" 5200 "made her call out: “Let me go and see Gregor, he is my unfortunate son!" 955 0
+"956" 5200 "Can’t you understand I have to see him?”, and Gregor would think to" 956 0
+"957" 5200 "himself that maybe it would be better if his mother came in, not every" 957 0
+"958" 5200 "day of course, but one day a week, perhaps; she could understand" 958 0
+"959" 5200 "everything much better than his sister who, for all her courage, was" 959 0
+"960" 5200 "still just a child after all, and really might not have had an adult’s" 960 0
+"961" 5200 "appreciation of the burdensome job she had taken on." 961 0
+"962" 5200 "" 962 0
+"963" 5200 "Gregor’s wish to see his mother was soon realised. Out of consideration" 963 0
+"964" 5200 "for his parents, Gregor wanted to avoid being seen at the window during" 964 0
+"965" 5200 "the day, the few square meters of the floor did not give him much room" 965 0
+"966" 5200 "to crawl about, it was hard to just lie quietly through the night, his" 966 0
+"967" 5200 "food soon stopped giving him any pleasure at all, and so, to entertain" 967 0
+"968" 5200 "himself, he got into the habit of crawling up and down the walls and" 968 0
+"969" 5200 "ceiling. He was especially fond of hanging from the ceiling; it was" 969 0
+"970" 5200 "quite different from lying on the floor; he could breathe more freely;" 970 0
+"971" 5200 "his body had a light swing to it; and up there, relaxed and almost" 971 0
+"972" 5200 "happy, it might happen that he would surprise even himself by letting" 972 0
+"973" 5200 "go of the ceiling and landing on the floor with a crash. But now, of" 973 0
+"974" 5200 "course, he had far better control of his body than before and, even" 974 0
+"975" 5200 "with a fall as great as that, caused himself no damage. Very soon his" 975 0
+"976" 5200 "sister noticed Gregor’s new way of entertaining himself—he had, after" 976 0
+"977" 5200 "all, left traces of the adhesive from his feet as he crawled about—and" 977 0
+"978" 5200 "got it into her head to make it as easy as possible for him by removing" 978 0
+"979" 5200 "the furniture that got in his way, especially the chest of drawers and" 979 0
+"980" 5200 "the desk. Now, this was not something that she would be able to do by" 980 0
+"981" 5200 "herself; she did not dare to ask for help from her father; the sixteen" 981 0
+"982" 5200 "year old maid had carried on bravely since the cook had left but she" 982 0
+"983" 5200 "certainly would not have helped in this, she had even asked to be" 983 0
+"984" 5200 "allowed to keep the kitchen locked at all times and never to have to" 984 0
+"985" 5200 "open the door unless it was especially important; so his sister had no" 985 0
+"986" 5200 "choice but to choose some time when Gregor’s father was not there and" 986 0
+"987" 5200 "fetch his mother to help her. As she approached the room, Gregor could" 987 0
+"988" 5200 "hear his mother express her joy, but once at the door she went silent." 988 0
+"989" 5200 "First, of course, his sister came in and looked round to see that" 989 0
+"990" 5200 "everything in the room was alright; and only then did she let her" 990 0
+"991" 5200 "mother enter. Gregor had hurriedly pulled the sheet down lower over the" 991 0
+"992" 5200 "couch and put more folds into it so that everything really looked as if" 992 0
+"993" 5200 "it had just been thrown down by chance. Gregor also refrained, this" 993 0
+"994" 5200 "time, from spying out from under the sheet; he gave up the chance to" 994 0
+"995" 5200 "see his mother until later and was simply glad that she had come. “You" 995 0
+"996" 5200 "can come in, he can’t be seen”, said his sister, obviously leading her" 996 0
+"997" 5200 "in by the hand. The old chest of drawers was too heavy for a pair of" 997 0
+"998" 5200 "feeble women to be heaving about, but Gregor listened as they pushed it" 998 0
+"999" 5200 "from its place, his sister always taking on the heaviest part of the" 999 0
+"1000" 5200 "work for herself and ignoring her mother’s warnings that she would" 1000 0
+"1001" 5200 "strain herself. This lasted a very long time. After labouring at it for" 1001 0
+"1002" 5200 "fifteen minutes or more his mother said it would be better to leave the" 1002 0
+"1003" 5200 "chest where it was, for one thing it was too heavy for them to get the" 1003 0
+"1004" 5200 "job finished before Gregor’s father got home and leaving it in the" 1004 0
+"1005" 5200 "middle of the room it would be in his way even more, and for another" 1005 0
+"1006" 5200 "thing it wasn’t even sure that taking the furniture away would really" 1006 0
+"1007" 5200 "be any help to him. She thought just the opposite; the sight of the" 1007 0
+"1008" 5200 "bare walls saddened her right to her heart; and why wouldn’t Gregor" 1008 0
+"1009" 5200 "feel the same way about it, he’d been used to this furniture in his" 1009 0
+"1010" 5200 "room for a long time and it would make him feel abandoned to be in an" 1010 0
+"1011" 5200 "empty room like that. Then, quietly, almost whispering as if wanting" 1011 0
+"1012" 5200 "Gregor (whose whereabouts she did not know) to hear not even the tone" 1012 0
+"1013" 5200 "of her voice, as she was convinced that he did not understand her" 1013 0
+"1014" 5200 "words, she added “and by taking the furniture away, won’t it seem like" 1014 0
+"1015" 5200 "we’re showing that we’ve given up all hope of improvement and we’re" 1015 0
+"1016" 5200 "abandoning him to cope for himself? I think it’d be best to leave the" 1016 0
+"1017" 5200 "room exactly the way it was before so that when Gregor comes back to us" 1017 0
+"1018" 5200 "again he’ll find everything unchanged and he’ll be able to forget the" 1018 0
+"1019" 5200 "time in between all the easier”." 1019 0
+"1020" 5200 "" 1020 0
+"1021" 5200 "Hearing these words from his mother made Gregor realise that the lack" 1021 0
+"1022" 5200 "of any direct human communication, along with the monotonous life led" 1022 0
+"1023" 5200 "by the family during these two months, must have made him confused—he" 1023 0
+"1024" 5200 "could think of no other way of explaining to himself why he had" 1024 0
+"1025" 5200 "seriously wanted his room emptied out. Had he really wanted to" 1025 0
+"1026" 5200 "transform his room into a cave, a warm room fitted out with the nice" 1026 0
+"1027" 5200 "furniture he had inherited? That would have let him crawl around" 1027 0
+"1028" 5200 "unimpeded in any direction, but it would also have let him quickly" 1028 0
+"1029" 5200 "forget his past when he had still been human. He had come very close to" 1029 0
+"1030" 5200 "forgetting, and it had only been the voice of his mother, unheard for" 1030 0
+"1031" 5200 "so long, that had shaken him out of it. Nothing should be removed;" 1031 0
+"1032" 5200 "everything had to stay; he could not do without the good influence the" 1032 0
+"1033" 5200 "furniture had on his condition; and if the furniture made it difficult" 1033 0
+"1034" 5200 "for him to crawl about mindlessly that was not a loss but a great" 1034 0
+"1035" 5200 "advantage." 1035 0
+"1036" 5200 "" 1036 0
+"1037" 5200 "His sister, unfortunately, did not agree; she had become used to the" 1037 0
+"1038" 5200 "idea, not without reason, that she was Gregor’s spokesman to his" 1038 0
+"1039" 5200 "parents about the things that concerned him. This meant that his" 1039 0
+"1040" 5200 "mother’s advice now was sufficient reason for her to insist on removing" 1040 0
+"1041" 5200 "not only the chest of drawers and the desk, as she had thought at" 1041 0
+"1042" 5200 "first, but all the furniture apart from the all-important couch. It was" 1042 0
+"1043" 5200 "more than childish perversity, of course, or the unexpected confidence" 1043 0
+"1044" 5200 "she had recently acquired, that made her insist; she had indeed noticed" 1044 0
+"1045" 5200 "that Gregor needed a lot of room to crawl about in, whereas the" 1045 0
+"1046" 5200 "furniture, as far as anyone could see, was of no use to him at all." 1046 0
+"1047" 5200 "Girls of that age, though, do become enthusiastic about things and feel" 1047 0
+"1048" 5200 "they must get their way whenever they can. Perhaps this was what" 1048 0
+"1049" 5200 "tempted Grete to make Gregor’s situation seem even more shocking than" 1049 0
+"1050" 5200 "it was so that she could do even more for him. Grete would probably be" 1050 0
+"1051" 5200 "the only one who would dare enter a room dominated by Gregor crawling" 1051 0
+"1052" 5200 "about the bare walls by himself." 1052 0
+"1053" 5200 "" 1053 0
+"1054" 5200 "So she refused to let her mother dissuade her. Gregor’s mother already" 1054 0
+"1055" 5200 "looked uneasy in his room, she soon stopped speaking and helped" 1055 0
+"1056" 5200 "Gregor’s sister to get the chest of drawers out with what strength she" 1056 0
+"1057" 5200 "had. The chest of drawers was something that Gregor could do without if" 1057 0
+"1058" 5200 "he had to, but the writing desk had to stay. Hardly had the two women" 1058 0
+"1059" 5200 "pushed the chest of drawers, groaning, out of the room than Gregor" 1059 0
+"1060" 5200 "poked his head out from under the couch to see what he could do about" 1060 0
+"1061" 5200 "it. He meant to be as careful and considerate as he could, but," 1061 0
+"1062" 5200 "unfortunately, it was his mother who came back first while Grete in the" 1062 0
+"1063" 5200 "next room had her arms round the chest, pushing and pulling at it from" 1063 0
+"1064" 5200 "side to side by herself without, of course, moving it an inch. His" 1064 0
+"1065" 5200 "mother was not used to the sight of Gregor, he might have made her ill," 1065 0
+"1066" 5200 "so Gregor hurried backwards to the far end of the couch. In his" 1066 0
+"1067" 5200 "startlement, though, he was not able to prevent the sheet at its front" 1067 0
+"1068" 5200 "from moving a little. It was enough to attract his mother’s attention." 1068 0
+"1069" 5200 "She stood very still, remained there a moment, and then went back out" 1069 0
+"1070" 5200 "to Grete." 1070 0
+"1071" 5200 "" 1071 0
+"1072" 5200 "Gregor kept trying to assure himself that nothing unusual was" 1072 0
+"1073" 5200 "happening, it was just a few pieces of furniture being moved after all," 1073 0
+"1074" 5200 "but he soon had to admit that the women going to and fro, their little" 1074 0
+"1075" 5200 "calls to each other, the scraping of the furniture on the floor, all" 1075 0
+"1076" 5200 "these things made him feel as if he were being assailed from all sides." 1076 0
+"1077" 5200 "With his head and legs pulled in against him and his body pressed to" 1077 0
+"1078" 5200 "the floor, he was forced to admit to himself that he could not stand" 1078 0
+"1079" 5200 "all of this much longer. They were emptying his room out; taking away" 1079 0
+"1080" 5200 "everything that was dear to him; they had already taken out the chest" 1080 0
+"1081" 5200 "containing his fretsaw and other tools; now they threatened to remove" 1081 0
+"1082" 5200 "the writing desk with its place clearly worn into the floor, the desk" 1082 0
+"1083" 5200 "where he had done his homework as a business trainee, at high school," 1083 0
+"1084" 5200 "even while he had been at infant school—he really could not wait any" 1084 0
+"1085" 5200 "longer to see whether the two women’s intentions were good. He had" 1085 0
+"1086" 5200 "nearly forgotten they were there anyway, as they were now too tired to" 1086 0
+"1087" 5200 "say anything while they worked and he could only hear their feet as" 1087 0
+"1088" 5200 "they stepped heavily on the floor." 1088 0
+"1089" 5200 "" 1089 0
+"1090" 5200 "So, while the women were leant against the desk in the other room" 1090 0
+"1091" 5200 "catching their breath, he sallied out, changed direction four times not" 1091 0
+"1092" 5200 "knowing what he should save first before his attention was suddenly" 1092 0
+"1093" 5200 "caught by the picture on the wall—which was already denuded of" 1093 0
+"1094" 5200 "everything else that had been on it—of the lady dressed in copious fur." 1094 0
+"1095" 5200 "He hurried up onto the picture and pressed himself against its glass," 1095 0
+"1096" 5200 "it held him firmly and felt good on his hot belly. This picture at" 1096 0
+"1097" 5200 "least, now totally covered by Gregor, would certainly be taken away by" 1097 0
+"1098" 5200 "no-one. He turned his head to face the door into the living room so" 1098 0
+"1099" 5200 "that he could watch the women when they came back." 1099 0
+"1100" 5200 "" 1100 0
+"1101" 5200 "They had not allowed themselves a long rest and came back quite soon;" 1101 0
+"1102" 5200 "Grete had put her arm around her mother and was nearly carrying her." 1102 0
+"1103" 5200 "“What shall we take now, then?”, said Grete and looked around. Her eyes" 1103 0
+"1104" 5200 "met those of Gregor on the wall. Perhaps only because her mother was" 1104 0
+"1105" 5200 "there, she remained calm, bent her face to her so that she would not" 1105 0
+"1106" 5200 "look round and said, albeit hurriedly and with a tremor in her voice:" 1106 0
+"1107" 5200 "“Come on, let’s go back in the living room for a while?” Gregor could" 1107 0
+"1108" 5200 "see what Grete had in mind, she wanted to take her mother somewhere" 1108 0
+"1109" 5200 "safe and then chase him down from the wall. Well, she could certainly" 1109 0
+"1110" 5200 "try it! He sat unyielding on his picture. He would rather jump at" 1110 0
+"1111" 5200 "Grete’s face." 1111 0
+"1112" 5200 "" 1112 0
+"1113" 5200 "But Grete’s words had made her mother quite worried, she stepped to one" 1113 0
+"1114" 5200 "side, saw the enormous brown patch against the flowers of the" 1114 0
+"1115" 5200 "wallpaper, and before she even realised it was Gregor that she saw" 1115 0
+"1116" 5200 "screamed: “Oh God, oh God!” Arms outstretched, she fell onto the couch" 1116 0
+"1117" 5200 "as if she had given up everything and stayed there immobile. “Gregor!”" 1117 0
+"1118" 5200 "shouted his sister, glowering at him and shaking her fist. That was the" 1118 0
+"1119" 5200 "first word she had spoken to him directly since his transformation. She" 1119 0
+"1120" 5200 "ran into the other room to fetch some kind of smelling salts to bring" 1120 0
+"1121" 5200 "her mother out of her faint; Gregor wanted to help too—he could save" 1121 0
+"1122" 5200 "his picture later, although he stuck fast to the glass and had to pull" 1122 0
+"1123" 5200 "himself off by force; then he, too, ran into the next room as if he" 1123 0
+"1124" 5200 "could advise his sister like in the old days; but he had to just stand" 1124 0
+"1125" 5200 "behind her doing nothing; she was looking into various bottles, he" 1125 0
+"1126" 5200 "startled her when she turned round; a bottle fell to the ground and" 1126 0
+"1127" 5200 "broke; a splinter cut Gregor’s face, some kind of caustic medicine" 1127 0
+"1128" 5200 "splashed all over him; now, without delaying any longer, Grete took" 1128 0
+"1129" 5200 "hold of all the bottles she could and ran with them in to her mother;" 1129 0
+"1130" 5200 "she slammed the door shut with her foot. So now Gregor was shut out" 1130 0
+"1131" 5200 "from his mother, who, because of him, might be near to death; he could" 1131 0
+"1132" 5200 "not open the door if he did not want to chase his sister away, and she" 1132 0
+"1133" 5200 "had to stay with his mother; there was nothing for him to do but wait;" 1133 0
+"1134" 5200 "and, oppressed with anxiety and self-reproach, he began to crawl about," 1134 0
+"1135" 5200 "he crawled over everything, walls, furniture, ceiling, and finally in" 1135 0
+"1136" 5200 "his confusion as the whole room began to spin around him he fell down" 1136 0
+"1137" 5200 "into the middle of the dinner table." 1137 0
+"1138" 5200 "" 1138 0
+"1139" 5200 "He lay there for a while, numb and immobile, all around him it was" 1139 0
+"1140" 5200 "quiet, maybe that was a good sign. Then there was someone at the door." 1140 0
+"1141" 5200 "The maid, of course, had locked herself in her kitchen so that Grete" 1141 0
+"1142" 5200 "would have to go and answer it. His father had arrived home. “What’s" 1142 0
+"1143" 5200 "happened?” were his first words; Grete’s appearance must have made" 1143 0
+"1144" 5200 "everything clear to him. She answered him with subdued voice, and" 1144 0
+"1145" 5200 "openly pressed her face into his chest: “Mother’s fainted, but she’s" 1145 0
+"1146" 5200 "better now. Gregor got out.” “Just as I expected”, said his father," 1146 0
+"1147" 5200 "“just as I always said, but you women wouldn’t listen, would you.” It" 1147 0
+"1148" 5200 "was clear to Gregor that Grete had not said enough and that his father" 1148 0
+"1149" 5200 "took it to mean that something bad had happened, that he was" 1149 0
+"1150" 5200 "responsible for some act of violence. That meant Gregor would now have" 1150 0
+"1151" 5200 "to try to calm his father, as he did not have the time to explain" 1151 0
+"1152" 5200 "things to him even if that had been possible. So he fled to the door of" 1152 0
+"1153" 5200 "his room and pressed himself against it so that his father, when he" 1153 0
+"1154" 5200 "came in from the hall, could see straight away that Gregor had the best" 1154 0
+"1155" 5200 "intentions and would go back into his room without delay, that it would" 1155 0
+"1156" 5200 "not be necessary to drive him back but that they had only to open the" 1156 0
+"1157" 5200 "door and he would disappear." 1157 0
+"1158" 5200 "" 1158 0
+"1159" 5200 "His father, though, was not in the mood to notice subtleties like that;" 1159 0
+"1160" 5200 "“Ah!”, he shouted as he came in, sounding as if he were both angry and" 1160 0
+"1161" 5200 "glad at the same time. Gregor drew his head back from the door and" 1161 0
+"1162" 5200 "lifted it towards his father. He really had not imagined his father the" 1162 0
+"1163" 5200 "way he stood there now; of late, with his new habit of crawling about," 1163 0
+"1164" 5200 "he had neglected to pay attention to what was going on the rest of the" 1164 0
+"1165" 5200 "flat the way he had done before. He really ought to have expected" 1165 0
+"1166" 5200 "things to have changed, but still, still, was that really his father?" 1166 0
+"1167" 5200 "The same tired man as used to be laying there entombed in his bed when" 1167 0
+"1168" 5200 "Gregor came back from his business trips, who would receive him sitting" 1168 0
+"1169" 5200 "in the armchair in his nightgown when he came back in the evenings; who" 1169 0
+"1170" 5200 "was hardly even able to stand up but, as a sign of his pleasure, would" 1170 0
+"1171" 5200 "just raise his arms and who, on the couple of times a year when they" 1171 0
+"1172" 5200 "went for a walk together on a Sunday or public holiday wrapped up" 1172 0
+"1173" 5200 "tightly in his overcoat between Gregor and his mother, would always" 1173 0
+"1174" 5200 "labour his way forward a little more slowly than them, who were already" 1174 0
+"1175" 5200 "walking slowly for his sake; who would place his stick down carefully" 1175 0
+"1176" 5200 "and, if he wanted to say something would invariably stop and gather his" 1176 0
+"1177" 5200 "companions around him. He was standing up straight enough now; dressed" 1177 0
+"1178" 5200 "in a smart blue uniform with gold buttons, the sort worn by the" 1178 0
+"1179" 5200 "employees at the banking institute; above the high, stiff collar of the" 1179 0
+"1180" 5200 "coat his strong double-chin emerged; under the bushy eyebrows, his" 1180 0
+"1181" 5200 "piercing, dark eyes looked out fresh and alert; his normally unkempt" 1181 0
+"1182" 5200 "white hair was combed down painfully close to his scalp. He took his" 1182 0
+"1183" 5200 "cap, with its gold monogram from, probably, some bank, and threw it in" 1183 0
+"1184" 5200 "an arc right across the room onto the sofa, put his hands in his" 1184 0
+"1185" 5200 "trouser pockets, pushing back the bottom of his long uniform coat, and," 1185 0
+"1186" 5200 "with look of determination, walked towards Gregor. He probably did not" 1186 0
+"1187" 5200 "even know himself what he had in mind, but nonetheless lifted his feet" 1187 0
+"1188" 5200 "unusually high. Gregor was amazed at the enormous size of the soles of" 1188 0
+"1189" 5200 "his boots, but wasted no time with that—he knew full well, right from" 1189 0
+"1190" 5200 "the first day of his new life, that his father thought it necessary to" 1190 0
+"1191" 5200 "always be extremely strict with him. And so he ran up to his father," 1191 0
+"1192" 5200 "stopped when his father stopped, scurried forwards again when he moved," 1192 0
+"1193" 5200 "even slightly. In this way they went round the room several times" 1193 0
+"1194" 5200 "without anything decisive happening, without even giving the impression" 1194 0
+"1195" 5200 "of a chase as everything went so slowly. Gregor remained all this time" 1195 0
+"1196" 5200 "on the floor, largely because he feared his father might see it as" 1196 0
+"1197" 5200 "especially provoking if he fled onto the wall or ceiling. Whatever he" 1197 0
+"1198" 5200 "did, Gregor had to admit that he certainly would not be able to keep up" 1198 0
+"1199" 5200 "this running about for long, as for each step his father took he had to" 1199 0
+"1200" 5200 "carry out countless movements. He became noticeably short of breath," 1200 0
+"1201" 5200 "even in his earlier life his lungs had not been very reliable. Now, as" 1201 0
+"1202" 5200 "he lurched about in his efforts to muster all the strength he could for" 1202 0
+"1203" 5200 "running he could hardly keep his eyes open; his thoughts became too" 1203 0
+"1204" 5200 "slow for him to think of any other way of saving himself than running;" 1204 0
+"1205" 5200 "he almost forgot that the walls were there for him to use although," 1205 0
+"1206" 5200 "here, they were concealed behind carefully carved furniture full of" 1206 0
+"1207" 5200 "notches and protrusions—then, right beside him, lightly tossed," 1207 0
+"1208" 5200 "something flew down and rolled in front of him. It was an apple; then" 1208 0
+"1209" 5200 "another one immediately flew at him; Gregor froze in shock; there was" 1209 0
+"1210" 5200 "no longer any point in running as his father had decided to bombard" 1210 0
+"1211" 5200 "him. He had filled his pockets with fruit from the bowl on the" 1211 0
+"1212" 5200 "sideboard and now, without even taking the time for careful aim, threw" 1212 0
+"1213" 5200 "one apple after another. These little, red apples rolled about on the" 1213 0
+"1214" 5200 "floor, knocking into each other as if they had electric motors. An" 1214 0
+"1215" 5200 "apple thrown without much force glanced against Gregor’s back and slid" 1215 0
+"1216" 5200 "off without doing any harm. Another one however, immediately following" 1216 0
+"1217" 5200 "it, hit squarely and lodged in his back; Gregor wanted to drag himself" 1217 0
+"1218" 5200 "away, as if he could remove the surprising, the incredible pain by" 1218 0
+"1219" 5200 "changing his position; but he felt as if nailed to the spot and spread" 1219 0
+"1220" 5200 "himself out, all his senses in confusion. The last thing he saw was the" 1220 0
+"1221" 5200 "door of his room being pulled open, his sister was screaming, his" 1221 0
+"1222" 5200 "mother ran out in front of her in her blouse (as his sister had taken" 1222 0
+"1223" 5200 "off some of her clothes after she had fainted to make it easier for her" 1223 0
+"1224" 5200 "to breathe), she ran to his father, her skirts unfastened and sliding" 1224 0
+"1225" 5200 "one after another to the ground, stumbling over the skirts she pushed" 1225 0
+"1226" 5200 "herself to his father, her arms around him, uniting herself with him" 1226 0
+"1227" 5200 "totally—now Gregor lost his ability to see anything—her hands behind" 1227 0
+"1228" 5200 "his father’s head begging him to spare Gregor’s life." 1228 0
+"1229" 5200 "" 1229 0
+"1230" 5200 "" 1230 0
+"1231" 5200 "" 1231 0
+"1232" 5200 "" 1232 0
+"1233" 5200 "<chapter III>" 1233 0
+"1234" 5200 "" 1234 0
+"1235" 5200 "" 1235 0
+"1236" 5200 "No-one dared to remove the apple lodged in Gregor’s flesh, so it" 1236 0
+"1237" 5200 "remained there as a visible reminder of his injury. He had suffered it" 1237 0
+"1238" 5200 "there for more than a month, and his condition seemed serious enough to" 1238 0
+"1239" 5200 "remind even his father that Gregor, despite his current sad and" 1239 0
+"1240" 5200 "revolting form, was a family member who could not be treated as an" 1240 0
+"1241" 5200 "enemy. On the contrary, as a family there was a duty to swallow any" 1241 0
+"1242" 5200 "revulsion for him and to be patient, just to be patient." 1242 0
+"1243" 5200 "" 1243 0
+"1244" 5200 "Because of his injuries, Gregor had lost much of his mobility—probably" 1244 0
+"1245" 5200 "permanently. He had been reduced to the condition of an ancient invalid" 1245 0
+"1246" 5200 "and it took him long, long minutes to crawl across his room—crawling" 1246 0
+"1247" 5200 "over the ceiling was out of the question—but this deterioration in his" 1247 0
+"1248" 5200 "condition was fully (in his opinion) made up for by the door to the" 1248 0
+"1249" 5200 "living room being left open every evening. He got into the habit of" 1249 0
+"1250" 5200 "closely watching it for one or two hours before it was opened and then," 1250 0
+"1251" 5200 "lying in the darkness of his room where he could not be seen from the" 1251 0
+"1252" 5200 "living room, he could watch the family in the light of the dinner table" 1252 0
+"1253" 5200 "and listen to their conversation—with everyone’s permission, in a way," 1253 0
+"1254" 5200 "and thus quite differently from before." 1254 0
+"1255" 5200 "" 1255 0
+"1256" 5200 "They no longer held the lively conversations of earlier times, of" 1256 0
+"1257" 5200 "course, the ones that Gregor always thought about with longing when he" 1257 0
+"1258" 5200 "was tired and getting into the damp bed in some small hotel room. All" 1258 0
+"1259" 5200 "of them were usually very quiet nowadays. Soon after dinner, his father" 1259 0
+"1260" 5200 "would go to sleep in his chair; his mother and sister would urge each" 1260 0
+"1261" 5200 "other to be quiet; his mother, bent deeply under the lamp, would sew" 1261 0
+"1262" 5200 "fancy underwear for a fashion shop; his sister, who had taken a sales" 1262 0
+"1263" 5200 "job, learned shorthand and French in the evenings so that she might be" 1263 0
+"1264" 5200 "able to get a better position later on. Sometimes his father would wake" 1264 0
+"1265" 5200 "up and say to Gregor’s mother “you’re doing so much sewing again" 1265 0
+"1266" 5200 "today!”, as if he did not know that he had been dozing—and then he" 1266 0
+"1267" 5200 "would go back to sleep again while mother and sister would exchange a" 1267 0
+"1268" 5200 "tired grin." 1268 0
+"1269" 5200 "" 1269 0
+"1270" 5200 "With a kind of stubbornness, Gregor’s father refused to take his" 1270 0
+"1271" 5200 "uniform off even at home; while his nightgown hung unused on its peg" 1271 0
+"1272" 5200 "Gregor’s father would slumber where he was, fully dressed, as if always" 1272 0
+"1273" 5200 "ready to serve and expecting to hear the voice of his superior even" 1273 0
+"1274" 5200 "here. The uniform had not been new to start with, but as a result of" 1274 0
+"1275" 5200 "this it slowly became even shabbier despite the efforts of Gregor’s" 1275 0
+"1276" 5200 "mother and sister to look after it. Gregor would often spend the whole" 1276 0
+"1277" 5200 "evening looking at all the stains on this coat, with its gold buttons" 1277 0
+"1278" 5200 "always kept polished and shiny, while the old man in it would sleep," 1278 0
+"1279" 5200 "highly uncomfortable but peaceful." 1279 0
+"1280" 5200 "" 1280 0
+"1281" 5200 "As soon as it struck ten, Gregor’s mother would speak gently to his" 1281 0
+"1282" 5200 "father to wake him and try to persuade him to go to bed, as he couldn’t" 1282 0
+"1283" 5200 "sleep properly where he was and he really had to get his sleep if he" 1283 0
+"1284" 5200 "was to be up at six to get to work. But since he had been in work he" 1284 0
+"1285" 5200 "had become more obstinate and would always insist on staying longer at" 1285 0
+"1286" 5200 "the table, even though he regularly fell asleep and it was then harder" 1286 0
+"1287" 5200 "than ever to persuade him to exchange the chair for his bed. Then," 1287 0
+"1288" 5200 "however much mother and sister would importune him with little" 1288 0
+"1289" 5200 "reproaches and warnings he would keep slowly shaking his head for a" 1289 0
+"1290" 5200 "quarter of an hour with his eyes closed and refusing to get up." 1290 0
+"1291" 5200 "Gregor’s mother would tug at his sleeve, whisper endearments into his" 1291 0
+"1292" 5200 "ear, Gregor’s sister would leave her work to help her mother, but" 1292 0
+"1293" 5200 "nothing would have any effect on him. He would just sink deeper into" 1293 0
+"1294" 5200 "his chair. Only when the two women took him under the arms he would" 1294 0
+"1295" 5200 "abruptly open his eyes, look at them one after the other and say: “What" 1295 0
+"1296" 5200 "a life! This is what peace I get in my old age!” And supported by the" 1296 0
+"1297" 5200 "two women he would lift himself up carefully as if he were carrying the" 1297 0
+"1298" 5200 "greatest load himself, let the women take him to the door, send them" 1298 0
+"1299" 5200 "off and carry on by himself while Gregor’s mother would throw down her" 1299 0
+"1300" 5200 "needle and his sister her pen so that they could run after his father" 1300 0
+"1301" 5200 "and continue being of help to him." 1301 0
+"1302" 5200 "" 1302 0
+"1303" 5200 "Who, in this tired and overworked family, would have had time to give" 1303 0
+"1304" 5200 "more attention to Gregor than was absolutely necessary? The household" 1304 0
+"1305" 5200 "budget became even smaller; so now the maid was dismissed; an enormous," 1305 0
+"1306" 5200 "thick-boned charwoman with white hair that flapped around her head came" 1306 0
+"1307" 5200 "every morning and evening to do the heaviest work; everything else was" 1307 0
+"1308" 5200 "looked after by Gregor’s mother on top of the large amount of sewing" 1308 0
+"1309" 5200 "work she did. Gregor even learned, listening to the evening" 1309 0
+"1310" 5200 "conversation about what price they had hoped for, that several items of" 1310 0
+"1311" 5200 "jewellery belonging to the family had been sold, even though both" 1311 0
+"1312" 5200 "mother and sister had been very fond of wearing them at functions and" 1312 0
+"1313" 5200 "celebrations. But the loudest complaint was that although the flat was" 1313 0
+"1314" 5200 "much too big for their present circumstances, they could not move out" 1314 0
+"1315" 5200 "of it, there was no imaginable way of transferring Gregor to the new" 1315 0
+"1316" 5200 "address. He could see quite well, though, that there were more reasons" 1316 0
+"1317" 5200 "than consideration for him that made it difficult for them to move, it" 1317 0
+"1318" 5200 "would have been quite easy to transport him in any suitable crate with" 1318 0
+"1319" 5200 "a few air holes in it; the main thing holding the family back from" 1319 0
+"1320" 5200 "their decision to move was much more to do with their total despair," 1320 0
+"1321" 5200 "and the thought that they had been struck with a misfortune unlike" 1321 0
+"1322" 5200 "anything experienced by anyone else they knew or were related to. They" 1322 0
+"1323" 5200 "carried out absolutely everything that the world expects from poor" 1323 0
+"1324" 5200 "people, Gregor’s father brought bank employees their breakfast, his" 1324 0
+"1325" 5200 "mother sacrificed herself by washing clothes for strangers, his sister" 1325 0
+"1326" 5200 "ran back and forth behind her desk at the behest of the customers, but" 1326 0
+"1327" 5200 "they just did not have the strength to do any more. And the injury in" 1327 0
+"1328" 5200 "Gregor’s back began to hurt as much as when it was new. After they had" 1328 0
+"1329" 5200 "come back from taking his father to bed Gregor’s mother and sister" 1329 0
+"1330" 5200 "would now leave their work where it was and sit close together, cheek" 1330 0
+"1331" 5200 "to cheek; his mother would point to Gregor’s room and say “Close that" 1331 0
+"1332" 5200 "door, Grete”, and then, when he was in the dark again, they would sit" 1332 0
+"1333" 5200 "in the next room and their tears would mingle, or they would simply sit" 1333 0
+"1334" 5200 "there staring dry-eyed at the table." 1334 0
+"1335" 5200 "" 1335 0
+"1336" 5200 "Gregor hardly slept at all, either night or day. Sometimes he would" 1336 0
+"1337" 5200 "think of taking over the family’s affairs, just like before, the next" 1337 0
+"1338" 5200 "time the door was opened; he had long forgotten about his boss and the" 1338 0
+"1339" 5200 "chief clerk, but they would appear again in his thoughts, the salesmen" 1339 0
+"1340" 5200 "and the apprentices, that stupid teaboy, two or three friends from" 1340 0
+"1341" 5200 "other businesses, one of the chambermaids from a provincial hotel, a" 1341 0
+"1342" 5200 "tender memory that appeared and disappeared again, a cashier from a hat" 1342 0
+"1343" 5200 "shop for whom his attention had been serious but too slow,—all of them" 1343 0
+"1344" 5200 "appeared to him, mixed together with strangers and others he had" 1344 0
+"1345" 5200 "forgotten, but instead of helping him and his family they were all of" 1345 0
+"1346" 5200 "them inaccessible, and he was glad when they disappeared. Other times" 1346 0
+"1347" 5200 "he was not at all in the mood to look after his family, he was filled" 1347 0
+"1348" 5200 "with simple rage about the lack of attention he was shown, and although" 1348 0
+"1349" 5200 "he could think of nothing he would have wanted, he made plans of how he" 1349 0
+"1350" 5200 "could get into the pantry where he could take all the things he was" 1350 0
+"1351" 5200 "entitled to, even if he was not hungry. Gregor’s sister no longer" 1351 0
+"1352" 5200 "thought about how she could please him but would hurriedly push some" 1352 0
+"1353" 5200 "food or other into his room with her foot before she rushed out to work" 1353 0
+"1354" 5200 "in the morning and at midday, and in the evening she would sweep it" 1354 0
+"1355" 5200 "away again with the broom, indifferent as to whether it had been eaten" 1355 0
+"1356" 5200 "or—more often than not—had been left totally untouched. She still" 1356 0
+"1357" 5200 "cleared up the room in the evening, but now she could not have been any" 1357 0
+"1358" 5200 "quicker about it. Smears of dirt were left on the walls, here and there" 1358 0
+"1359" 5200 "were little balls of dust and filth. At first, Gregor went into one of" 1359 0
+"1360" 5200 "the worst of these places when his sister arrived as a reproach to her," 1360 0
+"1361" 5200 "but he could have stayed there for weeks without his sister doing" 1361 0
+"1362" 5200 "anything about it; she could see the dirt as well as he could but she" 1362 0
+"1363" 5200 "had simply decided to leave him to it. At the same time she became" 1363 0
+"1364" 5200 "touchy in a way that was quite new for her and which everyone in the" 1364 0
+"1365" 5200 "family understood—cleaning up Gregor’s room was for her and her alone." 1365 0
+"1366" 5200 "Gregor’s mother did once thoroughly clean his room, and needed to use" 1366 0
+"1367" 5200 "several bucketfuls of water to do it—although that much dampness also" 1367 0
+"1368" 5200 "made Gregor ill and he lay flat on the couch, bitter and immobile. But" 1368 0
+"1369" 5200 "his mother was to be punished still more for what she had done, as" 1369 0
+"1370" 5200 "hardly had his sister arrived home in the evening than she noticed the" 1370 0
+"1371" 5200 "change in Gregor’s room and, highly aggrieved, ran back into the living" 1371 0
+"1372" 5200 "room where, despite her mothers raised and imploring hands, she broke" 1372 0
+"1373" 5200 "into convulsive tears. Her father, of course, was startled out of his" 1373 0
+"1374" 5200 "chair and the two parents looked on astonished and helpless; then they," 1374 0
+"1375" 5200 "too, became agitated; Gregor’s father, standing to the right of his" 1375 0
+"1376" 5200 "mother, accused her of not leaving the cleaning of Gregor’s room to his" 1376 0
+"1377" 5200 "sister; from her left, Gregor’s sister screamed at her that she was" 1377 0
+"1378" 5200 "never to clean Gregor’s room again; while his mother tried to draw his" 1378 0
+"1379" 5200 "father, who was beside himself with anger, into the bedroom; his" 1379 0
+"1380" 5200 "sister, quaking with tears, thumped on the table with her small fists;" 1380 0
+"1381" 5200 "and Gregor hissed in anger that no-one had even thought of closing the" 1381 0
+"1382" 5200 "door to save him the sight of this and all its noise." 1382 0
+"1383" 5200 "" 1383 0
+"1384" 5200 "Gregor’s sister was exhausted from going out to work, and looking after" 1384 0
+"1385" 5200 "Gregor as she had done before was even more work for her, but even so" 1385 0
+"1386" 5200 "his mother ought certainly not to have taken her place. Gregor, on the" 1386 0
+"1387" 5200 "other hand, ought not to be neglected. Now, though, the charwoman was" 1387 0
+"1388" 5200 "here. This elderly widow, with a robust bone structure that made her" 1388 0
+"1389" 5200 "able to withstand the hardest of things in her long life, wasn’t really" 1389 0
+"1390" 5200 "repelled by Gregor. Just by chance one day, rather than any real" 1390 0
+"1391" 5200 "curiosity, she opened the door to Gregor’s room and found herself face" 1391 0
+"1392" 5200 "to face with him. He was taken totally by surprise, no-one was chasing" 1392 0
+"1393" 5200 "him but he began to rush to and fro while she just stood there in" 1393 0
+"1394" 5200 "amazement with her hands crossed in front of her. From then on she" 1394 0
+"1395" 5200 "never failed to open the door slightly every evening and morning and" 1395 0
+"1396" 5200 "look briefly in on him. At first she would call to him as she did so" 1396 0
+"1397" 5200 "with words that she probably considered friendly, such as “come on" 1397 0
+"1398" 5200 "then, you old dung-beetle!”, or “look at the old dung-beetle there!”" 1398 0
+"1399" 5200 "Gregor never responded to being spoken to in that way, but just" 1399 0
+"1400" 5200 "remained where he was without moving as if the door had never even been" 1400 0
+"1401" 5200 "opened. If only they had told this charwoman to clean up his room every" 1401 0
+"1402" 5200 "day instead of letting her disturb him for no reason whenever she felt" 1402 0
+"1403" 5200 "like it! One day, early in the morning while a heavy rain struck the" 1403 0
+"1404" 5200 "windowpanes, perhaps indicating that spring was coming, she began to" 1404 0
+"1405" 5200 "speak to him in that way once again. Gregor was so resentful of it that" 1405 0
+"1406" 5200 "he started to move toward her, he was slow and infirm, but it was like" 1406 0
+"1407" 5200 "a kind of attack. Instead of being afraid, the charwoman just lifted up" 1407 0
+"1408" 5200 "one of the chairs from near the door and stood there with her mouth" 1408 0
+"1409" 5200 "open, clearly intending not to close her mouth until the chair in her" 1409 0
+"1410" 5200 "hand had been slammed down into Gregor’s back. “Aren’t you coming any" 1410 0
+"1411" 5200 "closer, then?”, she asked when Gregor turned round again, and she" 1411 0
+"1412" 5200 "calmly put the chair back in the corner." 1412 0
+"1413" 5200 "" 1413 0
+"1414" 5200 "Gregor had almost entirely stopped eating. Only if he happened to find" 1414 0
+"1415" 5200 "himself next to the food that had been prepared for him he might take" 1415 0
+"1416" 5200 "some of it into his mouth to play with it, leave it there a few hours" 1416 0
+"1417" 5200 "and then, more often than not, spit it out again. At first he thought" 1417 0
+"1418" 5200 "it was distress at the state of his room that stopped him eating, but" 1418 0
+"1419" 5200 "he had soon got used to the changes made there. They had got into the" 1419 0
+"1420" 5200 "habit of putting things into this room that they had no room for" 1420 0
+"1421" 5200 "anywhere else, and there were now many such things as one of the rooms" 1421 0
+"1422" 5200 "in the flat had been rented out to three gentlemen. These earnest" 1422 0
+"1423" 5200 "gentlemen—all three of them had full beards, as Gregor learned peering" 1423 0
+"1424" 5200 "through the crack in the door one day—were painfully insistent on" 1424 0
+"1425" 5200 "things’ being tidy. This meant not only in their own room but, since" 1425 0
+"1426" 5200 "they had taken a room in this establishment, in the entire flat and" 1426 0
+"1427" 5200 "especially in the kitchen. Unnecessary clutter was something they could" 1427 0
+"1428" 5200 "not tolerate, especially if it was dirty. They had moreover brought" 1428 0
+"1429" 5200 "most of their own furnishings and equipment with them. For this reason," 1429 0
+"1430" 5200 "many things had become superfluous which, although they could not be" 1430 0
+"1431" 5200 "sold, the family did not wish to discard. All these things found their" 1431 0
+"1432" 5200 "way into Gregor’s room. The dustbins from the kitchen found their way" 1432 0
+"1433" 5200 "in there too. The charwoman was always in a hurry, and anything she" 1433 0
+"1434" 5200 "couldn’t use for the time being she would just chuck in there. He," 1434 0
+"1435" 5200 "fortunately, would usually see no more than the object and the hand" 1435 0
+"1436" 5200 "that held it. The woman most likely meant to fetch the things back out" 1436 0
+"1437" 5200 "again when she had time and the opportunity, or to throw everything out" 1437 0
+"1438" 5200 "in one go, but what actually happened was that they were left where" 1438 0
+"1439" 5200 "they landed when they had first been thrown unless Gregor made his way" 1439 0
+"1440" 5200 "through the junk and moved it somewhere else. At first he moved it" 1440 0
+"1441" 5200 "because, with no other room free where he could crawl about, he was" 1441 0
+"1442" 5200 "forced to, but later on he came to enjoy it although moving about in" 1442 0
+"1443" 5200 "that way left him sad and tired to death, and he would remain immobile" 1443 0
+"1444" 5200 "for hours afterwards." 1444 0
+"1445" 5200 "" 1445 0
+"1446" 5200 "The gentlemen who rented the room would sometimes take their evening" 1446 0
+"1447" 5200 "meal at home in the living room that was used by everyone, and so the" 1447 0
+"1448" 5200 "door to this room was often kept closed in the evening. But Gregor" 1448 0
+"1449" 5200 "found it easy to give up having the door open, he had, after all, often" 1449 0
+"1450" 5200 "failed to make use of it when it was open and, without the family" 1450 0
+"1451" 5200 "having noticed it, lain in his room in its darkest corner. One time," 1451 0
+"1452" 5200 "though, the charwoman left the door to the living room slightly open," 1452 0
+"1453" 5200 "and it remained open when the gentlemen who rented the room came in in" 1453 0
+"1454" 5200 "the evening and the light was put on. They sat up at the table where," 1454 0
+"1455" 5200 "formerly, Gregor had taken his meals with his father and mother, they" 1455 0
+"1456" 5200 "unfolded the serviettes and picked up their knives and forks. Gregor’s" 1456 0
+"1457" 5200 "mother immediately appeared in the doorway with a dish of meat and soon" 1457 0
+"1458" 5200 "behind her came his sister with a dish piled high with potatoes. The" 1458 0
+"1459" 5200 "food was steaming, and filled the room with its smell. The gentlemen" 1459 0
+"1460" 5200 "bent over the dishes set in front of them as if they wanted to test the" 1460 0
+"1461" 5200 "food before eating it, and the gentleman in the middle, who seemed to" 1461 0
+"1462" 5200 "count as an authority for the other two, did indeed cut off a piece of" 1462 0
+"1463" 5200 "meat while it was still in its dish, clearly wishing to establish" 1463 0
+"1464" 5200 "whether it was sufficiently cooked or whether it should be sent back to" 1464 0
+"1465" 5200 "the kitchen. It was to his satisfaction, and Gregor’s mother and" 1465 0
+"1466" 5200 "sister, who had been looking on anxiously, began to breathe again and" 1466 0
+"1467" 5200 "smiled." 1467 0
+"1468" 5200 "" 1468 0
+"1469" 5200 "The family themselves ate in the kitchen. Nonetheless, Gregor’s father" 1469 0
+"1470" 5200 "came into the living room before he went into the kitchen, bowed once" 1470 0
+"1471" 5200 "with his cap in his hand and did his round of the table. The gentlemen" 1471 0
+"1472" 5200 "stood as one, and mumbled something into their beards. Then, once they" 1472 0
+"1473" 5200 "were alone, they ate in near perfect silence. It seemed remarkable to" 1473 0
+"1474" 5200 "Gregor that above all the various noises of eating their chewing teeth" 1474 0
+"1475" 5200 "could still be heard, as if they had wanted to show Gregor that you" 1475 0
+"1476" 5200 "need teeth in order to eat and it was not possible to perform anything" 1476 0
+"1477" 5200 "with jaws that are toothless however nice they might be. “I’d like to" 1477 0
+"1478" 5200 "eat something”, said Gregor anxiously, “but not anything like they’re" 1478 0
+"1479" 5200 "eating. They do feed themselves. And here I am, dying!”" 1479 0
+"1480" 5200 "" 1480 0
+"1481" 5200 "Throughout all this time, Gregor could not remember having heard the" 1481 0
+"1482" 5200 "violin being played, but this evening it began to be heard from the" 1482 0
+"1483" 5200 "kitchen. The three gentlemen had already finished their meal, the one" 1483 0
+"1484" 5200 "in the middle had produced a newspaper, given a page to each of the" 1484 0
+"1485" 5200 "others, and now they leant back in their chairs reading them and" 1485 0
+"1486" 5200 "smoking. When the violin began playing they became attentive, stood up" 1486 0
+"1487" 5200 "and went on tip-toe over to the door of the hallway where they stood" 1487 0
+"1488" 5200 "pressed against each other. Someone must have heard them in the" 1488 0
+"1489" 5200 "kitchen, as Gregor’s father called out: “Is the playing perhaps" 1489 0
+"1490" 5200 "unpleasant for the gentlemen? We can stop it straight away.” “On the" 1490 0
+"1491" 5200 "contrary”, said the middle gentleman, “would the young lady not like to" 1491 0
+"1492" 5200 "come in and play for us here in the room, where it is, after all, much" 1492 0
+"1493" 5200 "more cosy and comfortable?” “Oh yes, we’d love to”, called back" 1493 0
+"1494" 5200 "Gregor’s father as if he had been the violin player himself. The" 1494 0
+"1495" 5200 "gentlemen stepped back into the room and waited. Gregor’s father soon" 1495 0
+"1496" 5200 "appeared with the music stand, his mother with the music and his sister" 1496 0
+"1497" 5200 "with the violin. She calmly prepared everything for her to begin" 1497 0
+"1498" 5200 "playing; his parents, who had never rented a room out before and" 1498 0
+"1499" 5200 "therefore showed an exaggerated courtesy towards the three gentlemen," 1499 0
+"1500" 5200 "did not even dare to sit on their own chairs; his father leant against" 1500 0
+"1501" 5200 "the door with his right hand pushed in between two buttons on his" 1501 0
+"1502" 5200 "uniform coat; his mother, though, was offered a seat by one of the" 1502 0
+"1503" 5200 "gentlemen and sat—leaving the chair where the gentleman happened to" 1503 0
+"1504" 5200 "have placed it—out of the way in a corner." 1504 0
+"1505" 5200 "" 1505 0
+"1506" 5200 "His sister began to play; father and mother paid close attention, one" 1506 0
+"1507" 5200 "on each side, to the movements of her hands. Drawn in by the playing," 1507 0
+"1508" 5200 "Gregor had dared to come forward a little and already had his head in" 1508 0
+"1509" 5200 "the living room. Before, he had taken great pride in how considerate he" 1509 0
+"1510" 5200 "was but now it hardly occurred to him that he had become so thoughtless" 1510 0
+"1511" 5200 "about the others. What’s more, there was now all the more reason to" 1511 0
+"1512" 5200 "keep himself hidden as he was covered in the dust that lay everywhere" 1512 0
+"1513" 5200 "in his room and flew up at the slightest movement; he carried threads," 1513 0
+"1514" 5200 "hairs, and remains of food about on his back and sides; he was much too" 1514 0
+"1515" 5200 "indifferent to everything now to lay on his back and wipe himself on" 1515 0
+"1516" 5200 "the carpet like he had used to do several times a day. And despite this" 1516 0
+"1517" 5200 "condition, he was not too shy to move forward a little onto the" 1517 0
+"1518" 5200 "immaculate floor of the living room." 1518 0
+"1519" 5200 "" 1519 0
+"1520" 5200 "No-one noticed him, though. The family was totally preoccupied with the" 1520 0
+"1521" 5200 "violin playing; at first, the three gentlemen had put their hands in" 1521 0
+"1522" 5200 "their pockets and come up far too close behind the music stand to look" 1522 0
+"1523" 5200 "at all the notes being played, and they must have disturbed Gregor’s" 1523 0
+"1524" 5200 "sister, but soon, in contrast with the family, they withdrew back to" 1524 0
+"1525" 5200 "the window with their heads sunk and talking to each other at half" 1525 0
+"1526" 5200 "volume, and they stayed by the window while Gregor’s father observed" 1526 0
+"1527" 5200 "them anxiously. It really now seemed very obvious that they had" 1527 0
+"1528" 5200 "expected to hear some beautiful or entertaining violin playing but had" 1528 0
+"1529" 5200 "been disappointed, that they had had enough of the whole performance" 1529 0
+"1530" 5200 "and it was only now out of politeness that they allowed their peace to" 1530 0
+"1531" 5200 "be disturbed. It was especially unnerving, the way they all blew the" 1531 0
+"1532" 5200 "smoke from their cigarettes upwards from their mouth and noses. Yet" 1532 0
+"1533" 5200 "Gregor’s sister was playing so beautifully. Her face was leant to one" 1533 0
+"1534" 5200 "side, following the lines of music with a careful and melancholy" 1534 0
+"1535" 5200 "expression. Gregor crawled a little further forward, keeping his head" 1535 0
+"1536" 5200 "close to the ground so that he could meet her eyes if the chance came." 1536 0
+"1537" 5200 "Was he an animal if music could captivate him so? It seemed to him that" 1537 0
+"1538" 5200 "he was being shown the way to the unknown nourishment he had been" 1538 0
+"1539" 5200 "yearning for. He was determined to make his way forward to his sister" 1539 0
+"1540" 5200 "and tug at her skirt to show her she might come into his room with her" 1540 0
+"1541" 5200 "violin, as no-one appreciated her playing here as much as he would. He" 1541 0
+"1542" 5200 "never wanted to let her out of his room, not while he lived, anyway;" 1542 0
+"1543" 5200 "his shocking appearance should, for once, be of some use to him; he" 1543 0
+"1544" 5200 "wanted to be at every door of his room at once to hiss and spit at the" 1544 0
+"1545" 5200 "attackers; his sister should not be forced to stay with him, though," 1545 0
+"1546" 5200 "but stay of her own free will; she would sit beside him on the couch" 1546 0
+"1547" 5200 "with her ear bent down to him while he told her how he had always" 1547 0
+"1548" 5200 "intended to send her to the conservatory, how he would have told" 1548 0
+"1549" 5200 "everyone about it last Christmas—had Christmas really come and gone" 1549 0
+"1550" 5200 "already?—if this misfortune hadn’t got in the way, and refuse to let" 1550 0
+"1551" 5200 "anyone dissuade him from it. On hearing all this, his sister would" 1551 0
+"1552" 5200 "break out in tears of emotion, and Gregor would climb up to her" 1552 0
+"1553" 5200 "shoulder and kiss her neck, which, since she had been going out to" 1553 0
+"1554" 5200 "work, she had kept free without any necklace or collar." 1554 0
+"1555" 5200 "" 1555 0
+"1556" 5200 "“Mr. Samsa!”, shouted the middle gentleman to Gregor’s father," 1556 0
+"1557" 5200 "pointing, without wasting any more words, with his forefinger at Gregor" 1557 0
+"1558" 5200 "as he slowly moved forward. The violin went silent, the middle of the" 1558 0
+"1559" 5200 "three gentlemen first smiled at his two friends, shaking his head, and" 1559 0
+"1560" 5200 "then looked back at Gregor. His father seemed to think it more" 1560 0
+"1561" 5200 "important to calm the three gentlemen before driving Gregor out, even" 1561 0
+"1562" 5200 "though they were not at all upset and seemed to think Gregor was more" 1562 0
+"1563" 5200 "entertaining than the violin playing had been. He rushed up to them" 1563 0
+"1564" 5200 "with his arms spread out and attempted to drive them back into their" 1564 0
+"1565" 5200 "room at the same time as trying to block their view of Gregor with his" 1565 0
+"1566" 5200 "body. Now they did become a little annoyed, and it was not clear" 1566 0
+"1567" 5200 "whether it was his father’s behaviour that annoyed them or the dawning" 1567 0
+"1568" 5200 "realisation that they had had a neighbour like Gregor in the next room" 1568 0
+"1569" 5200 "without knowing it. They asked Gregor’s father for explanations, raised" 1569 0
+"1570" 5200 "their arms like he had, tugged excitedly at their beards and moved back" 1570 0
+"1571" 5200 "towards their room only very slowly. Meanwhile Gregor’s sister had" 1571 0
+"1572" 5200 "overcome the despair she had fallen into when her playing was suddenly" 1572 0
+"1573" 5200 "interrupted. She had let her hands drop and let violin and bow hang" 1573 0
+"1574" 5200 "limply for a while but continued to look at the music as if still" 1574 0
+"1575" 5200 "playing, but then she suddenly pulled herself together, lay the" 1575 0
+"1576" 5200 "instrument on her mother’s lap who still sat laboriously struggling for" 1576 0
+"1577" 5200 "breath where she was, and ran into the next room which, under pressure" 1577 0
+"1578" 5200 "from her father, the three gentlemen were more quickly moving toward." 1578 0
+"1579" 5200 "Under his sister’s experienced hand, the pillows and covers on the beds" 1579 0
+"1580" 5200 "flew up and were put into order and she had already finished making the" 1580 0
+"1581" 5200 "beds and slipped out again before the three gentlemen had reached the" 1581 0
+"1582" 5200 "room. Gregor’s father seemed so obsessed with what he was doing that he" 1582 0
+"1583" 5200 "forgot all the respect he owed to his tenants. He urged them and" 1583 0
+"1584" 5200 "pressed them until, when he was already at the door of the room, the" 1584 0
+"1585" 5200 "middle of the three gentlemen shouted like thunder and stamped his foot" 1585 0
+"1586" 5200 "and thereby brought Gregor’s father to a halt. “I declare here and" 1586 0
+"1587" 5200 "now”, he said, raising his hand and glancing at Gregor’s mother and" 1587 0
+"1588" 5200 "sister to gain their attention too, “that with regard to the repugnant" 1588 0
+"1589" 5200 "conditions that prevail in this flat and with this family”—here he" 1589 0
+"1590" 5200 "looked briefly but decisively at the floor—“I give immediate notice on" 1590 0
+"1591" 5200 "my room. For the days that I have been living here I will, of course," 1591 0
+"1592" 5200 "pay nothing at all, on the contrary I will consider whether to proceed" 1592 0
+"1593" 5200 "with some kind of action for damages from you, and believe me it would" 1593 0
+"1594" 5200 "be very easy to set out the grounds for such an action.” He was silent" 1594 0
+"1595" 5200 "and looked straight ahead as if waiting for something. And indeed, his" 1595 0
+"1596" 5200 "two friends joined in with the words: “And we also give immediate" 1596 0
+"1597" 5200 "notice.” With that, he took hold of the door handle and slammed the" 1597 0
+"1598" 5200 "door." 1598 0
+"1599" 5200 "" 1599 0
+"1600" 5200 "Gregor’s father staggered back to his seat, feeling his way with his" 1600 0
+"1601" 5200 "hands, and fell into it; it looked as if he was stretching himself out" 1601 0
+"1602" 5200 "for his usual evening nap but from the uncontrolled way his head kept" 1602 0
+"1603" 5200 "nodding it could be seen that he was not sleeping at all. Throughout" 1603 0
+"1604" 5200 "all this, Gregor had lain still where the three gentlemen had first" 1604 0
+"1605" 5200 "seen him. His disappointment at the failure of his plan, and perhaps" 1605 0
+"1606" 5200 "also because he was weak from hunger, made it impossible for him to" 1606 0
+"1607" 5200 "move. He was sure that everyone would turn on him any moment, and he" 1607 0
+"1608" 5200 "waited. He was not even startled out of this state when the violin on" 1608 0
+"1609" 5200 "his mother’s lap fell from her trembling fingers and landed loudly on" 1609 0
+"1610" 5200 "the floor." 1610 0
+"1611" 5200 "" 1611 0
+"1612" 5200 "“Father, Mother”, said his sister, hitting the table with her hand as" 1612 0
+"1613" 5200 "introduction, “we can’t carry on like this. Maybe you can’t see it, but" 1613 0
+"1614" 5200 "I can. I don’t want to call this monster my brother, all I can say is:" 1614 0
+"1615" 5200 "we have to try and get rid of it. We’ve done all that’s humanly" 1615 0
+"1616" 5200 "possible to look after it and be patient, I don’t think anyone could" 1616 0
+"1617" 5200 "accuse us of doing anything wrong.”" 1617 0
+"1618" 5200 "" 1618 0
+"1619" 5200 "“She’s absolutely right”, said Gregor’s father to himself. His mother," 1619 0
+"1620" 5200 "who still had not had time to catch her breath, began to cough dully," 1620 0
+"1621" 5200 "her hand held out in front of her and a deranged expression in her" 1621 0
+"1622" 5200 "eyes." 1622 0
+"1623" 5200 "" 1623 0
+"1624" 5200 "Gregor’s sister rushed to his mother and put her hand on her forehead." 1624 0
+"1625" 5200 "Her words seemed to give Gregor’s father some more definite ideas. He" 1625 0
+"1626" 5200 "sat upright, played with his uniform cap between the plates left by the" 1626 0
+"1627" 5200 "three gentlemen after their meal, and occasionally looked down at" 1627 0
+"1628" 5200 "Gregor as he lay there immobile." 1628 0
+"1629" 5200 "" 1629 0
+"1630" 5200 "“We have to try and get rid of it”, said Gregor’s sister, now speaking" 1630 0
+"1631" 5200 "only to her father, as her mother was too occupied with coughing to" 1631 0
+"1632" 5200 "listen, “it’ll be the death of both of you, I can see it coming. We" 1632 0
+"1633" 5200 "can’t all work as hard as we have to and then come home to be tortured" 1633 0
+"1634" 5200 "like this, we can’t endure it. I can’t endure it any more.” And she" 1634 0
+"1635" 5200 "broke out so heavily in tears that they flowed down the face of her" 1635 0
+"1636" 5200 "mother, and she wiped them away with mechanical hand movements." 1636 0
+"1637" 5200 "" 1637 0
+"1638" 5200 "“My child”, said her father with sympathy and obvious understanding," 1638 0
+"1639" 5200 "“what are we to do?”" 1639 0
+"1640" 5200 "" 1640 0
+"1641" 5200 "His sister just shrugged her shoulders as a sign of the helplessness" 1641 0
+"1642" 5200 "and tears that had taken hold of her, displacing her earlier certainty." 1642 0
+"1643" 5200 "" 1643 0
+"1644" 5200 "“If he could just understand us”, said his father almost as a question;" 1644 0
+"1645" 5200 "his sister shook her hand vigorously through her tears as a sign that" 1645 0
+"1646" 5200 "of that there was no question." 1646 0
+"1647" 5200 "" 1647 0
+"1648" 5200 "“If he could just understand us”, repeated Gregor’s father, closing his" 1648 0
+"1649" 5200 "eyes in acceptance of his sister’s certainty that that was quite" 1649 0
+"1650" 5200 "impossible, “then perhaps we could come to some kind of arrangement" 1650 0
+"1651" 5200 "with him. But as it is ...”" 1651 0
+"1652" 5200 "" 1652 0
+"1653" 5200 "“It’s got to go”, shouted his sister, “that’s the only way, Father." 1653 0
+"1654" 5200 "You’ve got to get rid of the idea that that’s Gregor. We’ve only harmed" 1654 0
+"1655" 5200 "ourselves by believing it for so long. How can that be Gregor? If it" 1655 0
+"1656" 5200 "were Gregor he would have seen long ago that it’s not possible for" 1656 0
+"1657" 5200 "human beings to live with an animal like that and he would have gone of" 1657 0
+"1658" 5200 "his own free will. We wouldn’t have a brother any more, then, but we" 1658 0
+"1659" 5200 "could carry on with our lives and remember him with respect. As it is" 1659 0
+"1660" 5200 "this animal is persecuting us, it’s driven out our tenants, it" 1660 0
+"1661" 5200 "obviously wants to take over the whole flat and force us to sleep on" 1661 0
+"1662" 5200 "the streets. Father, look, just look”, she suddenly screamed, “he’s" 1662 0
+"1663" 5200 "starting again!” In her alarm, which was totally beyond Gregor’s" 1663 0
+"1664" 5200 "comprehension, his sister even abandoned his mother as she pushed" 1664 0
+"1665" 5200 "herself vigorously out of her chair as if more willing to sacrifice her" 1665 0
+"1666" 5200 "own mother than stay anywhere near Gregor. She rushed over to behind" 1666 0
+"1667" 5200 "her father, who had become excited merely because she was and stood up" 1667 0
+"1668" 5200 "half raising his hands in front of Gregor’s sister as if to protect" 1668 0
+"1669" 5200 "her." 1669 0
+"1670" 5200 "" 1670 0
+"1671" 5200 "But Gregor had had no intention of frightening anyone, least of all his" 1671 0
+"1672" 5200 "sister. All he had done was begin to turn round so that he could go" 1672 0
+"1673" 5200 "back into his room, although that was in itself quite startling as his" 1673 0
+"1674" 5200 "pain-wracked condition meant that turning round required a great deal" 1674 0
+"1675" 5200 "of effort and he was using his head to help himself do it, repeatedly" 1675 0
+"1676" 5200 "raising it and striking it against the floor. He stopped and looked" 1676 0
+"1677" 5200 "round. They seemed to have realised his good intention and had only" 1677 0
+"1678" 5200 "been alarmed briefly. Now they all looked at him in unhappy silence." 1678 0
+"1679" 5200 "His mother lay in her chair with her legs stretched out and pressed" 1679 0
+"1680" 5200 "against each other, her eyes nearly closed with exhaustion; his sister" 1680 0
+"1681" 5200 "sat next to his father with her arms around his neck." 1681 0
+"1682" 5200 "" 1682 0
+"1683" 5200 "“Maybe now they’ll let me turn round”, thought Gregor and went back to" 1683 0
+"1684" 5200 "work. He could not help panting loudly with the effort and had" 1684 0
+"1685" 5200 "sometimes to stop and take a rest. No-one was making him rush any more," 1685 0
+"1686" 5200 "everything was left up to him. As soon as he had finally finished" 1686 0
+"1687" 5200 "turning round he began to move straight ahead. He was amazed at the" 1687 0
+"1688" 5200 "great distance that separated him from his room, and could not" 1688 0
+"1689" 5200 "understand how he had covered that distance in his weak state a little" 1689 0
+"1690" 5200 "while before and almost without noticing it. He concentrated on" 1690 0
+"1691" 5200 "crawling as fast as he could and hardly noticed that there was not a" 1691 0
+"1692" 5200 "word, not any cry, from his family to distract him. He did not turn his" 1692 0
+"1693" 5200 "head until he had reached the doorway. He did not turn it all the way" 1693 0
+"1694" 5200 "round as he felt his neck becoming stiff, but it was nonetheless enough" 1694 0
+"1695" 5200 "to see that nothing behind him had changed, only his sister had stood" 1695 0
+"1696" 5200 "up. With his last glance he saw that his mother had now fallen" 1696 0
+"1697" 5200 "completely asleep." 1697 0
+"1698" 5200 "" 1698 0
+"1699" 5200 "He was hardly inside his room before the door was hurriedly shut," 1699 0
+"1700" 5200 "bolted and locked. The sudden noise behind Gregor so startled him that" 1700 0
+"1701" 5200 "his little legs collapsed under him. It was his sister who had been in" 1701 0
+"1702" 5200 "so much of a rush. She had been standing there waiting and sprung" 1702 0
+"1703" 5200 "forward lightly, Gregor had not heard her coming at all, and as she" 1703 0
+"1704" 5200 "turned the key in the lock she said loudly to her parents “At last!”." 1704 0
+"1705" 5200 "" 1705 0
+"1706" 5200 "“What now, then?”, Gregor asked himself as he looked round in the" 1706 0
+"1707" 5200 "darkness. He soon made the discovery that he could no longer move at" 1707 0
+"1708" 5200 "all. This was no surprise to him, it seemed rather that being able to" 1708 0
+"1709" 5200 "actually move around on those spindly little legs until then was" 1709 0
+"1710" 5200 "unnatural. He also felt relatively comfortable. It is true that his" 1710 0
+"1711" 5200 "entire body was aching, but the pain seemed to be slowly getting weaker" 1711 0
+"1712" 5200 "and weaker and would finally disappear altogether. He could already" 1712 0
+"1713" 5200 "hardly feel the decayed apple in his back or the inflamed area around" 1713 0
+"1714" 5200 "it, which was entirely covered in white dust. He thought back of his" 1714 0
+"1715" 5200 "family with emotion and love. If it was possible, he felt that he must" 1715 0
+"1716" 5200 "go away even more strongly than his sister. He remained in this state" 1716 0
+"1717" 5200 "of empty and peaceful rumination until he heard the clock tower strike" 1717 0
+"1718" 5200 "three in the morning. He watched as it slowly began to get light" 1718 0
+"1719" 5200 "everywhere outside the window too. Then, without his willing it, his" 1719 0
+"1720" 5200 "head sank down completely, and his last breath flowed weakly from his" 1720 0
+"1721" 5200 "nostrils." 1721 0
+"1722" 5200 "" 1722 0
+"1723" 5200 "When the cleaner came in early in the morning—they’d often asked her" 1723 0
+"1724" 5200 "not to keep slamming the doors but with her strength and in her hurry" 1724 0
+"1725" 5200 "she still did, so that everyone in the flat knew when she’d arrived and" 1725 0
+"1726" 5200 "from then on it was impossible to sleep in peace—she made her usual" 1726 0
+"1727" 5200 "brief look in on Gregor and at first found nothing special. She thought" 1727 0
+"1728" 5200 "he was laying there so still on purpose, playing the martyr; she" 1728 0
+"1729" 5200 "attributed all possible understanding to him. She happened to be" 1729 0
+"1730" 5200 "holding the long broom in her hand, so she tried to tickle Gregor with" 1730 0
+"1731" 5200 "it from the doorway. When she had no success with that she tried to" 1731 0
+"1732" 5200 "make a nuisance of herself and poked at him a little, and only when she" 1732 0
+"1733" 5200 "found she could shove him across the floor with no resistance at all" 1733 0
+"1734" 5200 "did she start to pay attention. She soon realised what had really" 1734 0
+"1735" 5200 "happened, opened her eyes wide, whistled to herself, but did not waste" 1735 0
+"1736" 5200 "time to yank open the bedroom doors and shout loudly into the darkness" 1736 0
+"1737" 5200 "of the bedrooms: “Come and ’ave a look at this, it’s dead, just lying" 1737 0
+"1738" 5200 "there, stone dead!”" 1738 0
+"1739" 5200 "" 1739 0
+"1740" 5200 "Mr. and Mrs. Samsa sat upright there in their marriage bed and had to" 1740 0
+"1741" 5200 "make an effort to get over the shock caused by the cleaner before they" 1741 0
+"1742" 5200 "could grasp what she was saying. But then, each from his own side, they" 1742 0
+"1743" 5200 "hurried out of bed. Mr. Samsa threw the blanket over his shoulders," 1743 0
+"1744" 5200 "Mrs. Samsa just came out in her nightdress; and that is how they went" 1744 0
+"1745" 5200 "into Gregor’s room. On the way they opened the door to the living room" 1745 0
+"1746" 5200 "where Grete had been sleeping since the three gentlemen had moved in;" 1746 0
+"1747" 5200 "she was fully dressed as if she had never been asleep, and the paleness" 1747 0
+"1748" 5200 "of her face seemed to confirm this. “Dead?”, asked Mrs. Samsa, looking" 1748 0
+"1749" 5200 "at the charwoman enquiringly, even though she could have checked for" 1749 0
+"1750" 5200 "herself and could have known it even without checking. “That’s what I" 1750 0
+"1751" 5200 "said”, replied the cleaner, and to prove it she gave Gregor’s body" 1751 0
+"1752" 5200 "another shove with the broom, sending it sideways across the floor." 1752 0
+"1753" 5200 "Mrs. Samsa made a movement as if she wanted to hold back the broom, but" 1753 0
+"1754" 5200 "did not complete it. “Now then”, said Mr. Samsa, “let’s give thanks to" 1754 0
+"1755" 5200 "God for that”. He crossed himself, and the three women followed his" 1755 0
+"1756" 5200 "example. Grete, who had not taken her eyes from the corpse, said: “Just" 1756 0
+"1757" 5200 "look how thin he was. He didn’t eat anything for so long. The food came" 1757 0
+"1758" 5200 "out again just the same as when it went in”. Gregor’s body was indeed" 1758 0
+"1759" 5200 "completely dried up and flat, they had not seen it until then, but now" 1759 0
+"1760" 5200 "he was not lifted up on his little legs, nor did he do anything to make" 1760 0
+"1761" 5200 "them look away." 1761 0
+"1762" 5200 "" 1762 0
+"1763" 5200 "“Grete, come with us in here for a little while”, said Mrs. Samsa with" 1763 0
+"1764" 5200 "a pained smile, and Grete followed her parents into the bedroom but not" 1764 0
+"1765" 5200 "without looking back at the body. The cleaner shut the door and opened" 1765 0
+"1766" 5200 "the window wide. Although it was still early in the morning the fresh" 1766 0
+"1767" 5200 "air had something of warmth mixed in with it. It was already the end of" 1767 0
+"1768" 5200 "March, after all." 1768 0
+"1769" 5200 "" 1769 0
+"1770" 5200 "The three gentlemen stepped out of their room and looked round in" 1770 0
+"1771" 5200 "amazement for their breakfasts; they had been forgotten about. “Where" 1771 0
+"1772" 5200 "is our breakfast?”, the middle gentleman asked the cleaner irritably." 1772 0
+"1773" 5200 "She just put her finger on her lips and made a quick and silent sign to" 1773 0
+"1774" 5200 "the men that they might like to come into Gregor’s room. They did so," 1774 0
+"1775" 5200 "and stood around Gregor’s corpse with their hands in the pockets of" 1775 0
+"1776" 5200 "their well-worn coats. It was now quite light in the room." 1776 0
+"1777" 5200 "" 1777 0
+"1778" 5200 "Then the door of the bedroom opened and Mr. Samsa appeared in his" 1778 0
+"1779" 5200 "uniform with his wife on one arm and his daughter on the other. All of" 1779 0
+"1780" 5200 "them had been crying a little; Grete now and then pressed her face" 1780 0
+"1781" 5200 "against her father’s arm." 1781 0
+"1782" 5200 "" 1782 0
+"1783" 5200 "“Leave my home. Now!”, said Mr. Samsa, indicating the door and without" 1783 0
+"1784" 5200 "letting the women from him. “What do you mean?”, asked the middle of" 1784 0
+"1785" 5200 "the three gentlemen somewhat disconcerted, and he smiled sweetly. The" 1785 0
+"1786" 5200 "other two held their hands behind their backs and continually rubbed" 1786 0
+"1787" 5200 "them together in gleeful anticipation of a loud quarrel which could" 1787 0
+"1788" 5200 "only end in their favour. “I mean just what I said”, answered Mr." 1788 0
+"1789" 5200 "Samsa, and, with his two companions, went in a straight line towards" 1789 0
+"1790" 5200 "the man. At first, he stood there still, looking at the ground as if" 1790 0
+"1791" 5200 "the contents of his head were rearranging themselves into new" 1791 0
+"1792" 5200 "positions. “Alright, we’ll go then”, he said, and looked up at Mr." 1792 0
+"1793" 5200 "Samsa as if he had been suddenly overcome with humility and wanted" 1793 0
+"1794" 5200 "permission again from Mr. Samsa for his decision. Mr. Samsa merely" 1794 0
+"1795" 5200 "opened his eyes wide and briefly nodded to him several times. At that," 1795 0
+"1796" 5200 "and without delay, the man actually did take long strides into the" 1796 0
+"1797" 5200 "front hallway; his two friends had stopped rubbing their hands some" 1797 0
+"1798" 5200 "time before and had been listening to what was being said. Now they" 1798 0
+"1799" 5200 "jumped off after their friend as if taken with a sudden fear that Mr." 1799 0
+"1800" 5200 "Samsa might go into the hallway in front of them and break the" 1800 0
+"1801" 5200 "connection with their leader. Once there, all three took their hats" 1801 0
+"1802" 5200 "from the stand, took their sticks from the holder, bowed without a word" 1802 0
+"1803" 5200 "and left the premises. Mr. Samsa and the two women followed them out" 1803 0
+"1804" 5200 "onto the landing; but they had had no reason to mistrust the men’s" 1804 0
+"1805" 5200 "intentions and as they leaned over the landing they saw how the three" 1805 0
+"1806" 5200 "gentlemen made slow but steady progress down the many steps. As they" 1806 0
+"1807" 5200 "turned the corner on each floor they disappeared and would reappear a" 1807 0
+"1808" 5200 "few moments later; the further down they went, the more that the Samsa" 1808 0
+"1809" 5200 "family lost interest in them; when a butcher’s boy, proud of posture" 1809 0
+"1810" 5200 "with his tray on his head, passed them on his way up and came nearer" 1810 0
+"1811" 5200 "than they were, Mr. Samsa and the women came away from the landing and" 1811 0
+"1812" 5200 "went, as if relieved, back into the flat." 1812 0
+"1813" 5200 "" 1813 0
+"1814" 5200 "They decided the best way to make use of that day was for relaxation" 1814 0
+"1815" 5200 "and to go for a walk; not only had they earned a break from work but" 1815 0
+"1816" 5200 "they were in serious need of it. So they sat at the table and wrote" 1816 0
+"1817" 5200 "three letters of excusal, Mr. Samsa to his employers, Mrs. Samsa to her" 1817 0
+"1818" 5200 "contractor and Grete to her principal. The cleaner came in while they" 1818 0
+"1819" 5200 "were writing to tell them she was going, she’d finished her work for" 1819 0
+"1820" 5200 "that morning. The three of them at first just nodded without looking up" 1820 0
+"1821" 5200 "from what they were writing, and it was only when the cleaner still did" 1821 0
+"1822" 5200 "not seem to want to leave that they looked up in irritation. “Well?”," 1822 0
+"1823" 5200 "asked Mr. Samsa. The charwoman stood in the doorway with a smile on her" 1823 0
+"1824" 5200 "face as if she had some tremendous good news to report, but would only" 1824 0
+"1825" 5200 "do it if she was clearly asked to. The almost vertical little ostrich" 1825 0
+"1826" 5200 "feather on her hat, which had been a source of irritation to Mr. Samsa" 1826 0
+"1827" 5200 "all the time she had been working for them, swayed gently in all" 1827 0
+"1828" 5200 "directions. “What is it you want then?”, asked Mrs. Samsa, whom the" 1828 0
+"1829" 5200 "cleaner had the most respect for. “Yes”, she answered, and broke into a" 1829 0
+"1830" 5200 "friendly laugh that made her unable to speak straight away, “well then," 1830 0
+"1831" 5200 "that thing in there, you needn’t worry about how you’re going to get" 1831 0
+"1832" 5200 "rid of it. That’s all been sorted out.” Mrs. Samsa and Grete bent down" 1832 0
+"1833" 5200 "over their letters as if intent on continuing with what they were" 1833 0
+"1834" 5200 "writing; Mr. Samsa saw that the cleaner wanted to start describing" 1834 0
+"1835" 5200 "everything in detail but, with outstretched hand, he made it quite" 1835 0
+"1836" 5200 "clear that she was not to. So, as she was prevented from telling them" 1836 0
+"1837" 5200 "all about it, she suddenly remembered what a hurry she was in and," 1837 0
+"1838" 5200 "clearly peeved, called out “Cheerio then, everyone”, turned round" 1838 0
+"1839" 5200 "sharply and left, slamming the door terribly as she went." 1839 0
+"1840" 5200 "" 1840 0
+"1841" 5200 "“Tonight she gets sacked”, said Mr. Samsa, but he received no reply" 1841 0
+"1842" 5200 "from either his wife or his daughter as the charwoman seemed to have" 1842 0
+"1843" 5200 "destroyed the peace they had only just gained. They got up and went" 1843 0
+"1844" 5200 "over to the window where they remained with their arms around each" 1844 0
+"1845" 5200 "other. Mr. Samsa twisted round in his chair to look at them and sat" 1845 0
+"1846" 5200 "there watching for a while. Then he called out: “Come here, then. Let’s" 1846 0
+"1847" 5200 "forget about all that old stuff, shall we. Come and give me a bit of" 1847 0
+"1848" 5200 "attention”. The two women immediately did as he said, hurrying over to" 1848 0
+"1849" 5200 "him where they kissed him and hugged him and then they quickly finished" 1849 0
+"1850" 5200 "their letters." 1850 0
+"1851" 5200 "" 1851 0
+"1852" 5200 "After that, the three of them left the flat together, which was" 1852 0
+"1853" 5200 "something they had not done for months, and took the tram out to the" 1853 0
+"1854" 5200 "open country outside the town. They had the tram, filled with warm" 1854 0
+"1855" 5200 "sunshine, all to themselves. Leant back comfortably on their seats," 1855 0
+"1856" 5200 "they discussed their prospects and found that on closer examination" 1856 0
+"1857" 5200 "they were not at all bad—until then they had never asked each other" 1857 0
+"1858" 5200 "about their work but all three had jobs which were very good and held" 1858 0
+"1859" 5200 "particularly good promise for the future. The greatest improvement for" 1859 0
+"1860" 5200 "the time being, of course, would be achieved quite easily by moving" 1860 0
+"1861" 5200 "house; what they needed now was a flat that was smaller and cheaper" 1861 0
+"1862" 5200 "than the current one which had been chosen by Gregor, one that was in a" 1862 0
+"1863" 5200 "better location and, most of all, more practical. All the time, Grete" 1863 0
+"1864" 5200 "was becoming livelier. With all the worry they had been having of late" 1864 0
+"1865" 5200 "her cheeks had become pale, but, while they were talking, Mr. and Mrs." 1865 0
+"1866" 5200 "Samsa were struck, almost simultaneously, with the thought of how their" 1866 0
+"1867" 5200 "daughter was blossoming into a well built and beautiful young lady." 1867 0
+"1868" 5200 "They became quieter. Just from each other’s glance and almost without" 1868 0
+"1869" 5200 "knowing it they agreed that it would soon be time to find a good man" 1869 0
+"1870" 5200 "for her. And, as if in confirmation of their new dreams and good" 1870 0
+"1871" 5200 "intentions, as soon as they reached their destination Grete was the" 1871 0
+"1872" 5200 "first to get up and stretch out her young body." 1872 0

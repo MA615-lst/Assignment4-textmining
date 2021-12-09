@@ -1,0 +1,246 @@
+---
+title: "textmining"
+author: "Shuting"
+date: "12/5/2021"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(knitr)
+library(gutenbergr)
+library(tidyverse)
+library(tnum)
+library(dplyr)
+library(tidytext)
+library(stringr)
+library(ggplot2)
+library(tidyr)
+library(scales)
+library(wordcloud)
+library(reshape2)
+```
+
+## Import Book
+
+```{r}
+Metamorphosis <- gutenberg_download(gutenberg_id = 5200)
+# write.table(Metamorphosis, "Metamorphosis.txt") # add <> for every chapter in text file
+Metamorphosis <- read.table("Metamorphosis.txt", header = T)
+```
+
+## Tidy Metamorphosis by single-word tokenization
+
+```{r}
+Metamorphosis <- Metamorphosis %>%
+  mutate(linenumber = row_number(),
+         chapter = cumsum(str_detect(text, 
+                                     regex("^chapter [\\divxlc]",
+                                           ignore_case = TRUE)))) %>%
+  ungroup()
+
+tidy_Metamorphosis <- Metamorphosis %>%
+  unnest_tokens(word, text)
+#########################################
+data("stop_words")
+tidy_Metamorphosis <- tidy_Metamorphosis %>% anti_join(stop_words)
+#########################################
+commonwords <- tidy_Metamorphosis %>% count(word, sort = TRUE)
+
+tidy_Metamorphosis %>%
+  count(word, sort = TRUE) %>%
+  filter(n > 16) %>%
+  mutate(word = reorder(word, n)) %>%
+  ggplot(aes(n, word)) +
+  geom_col() +
+  labs(y = NULL)
+```
+Firstly, I convert the book "Metamorphosis" into the tidy text format: a table with one-token-per-row. In this table, for one row, we have one specific word, chapter number and line number of this word. 
+
+Secondly, I removed the stop words, words have no meaning, from the tidy table.
+
+Then, I explored the common words of this book by count single word's frequency. And I found the most common words were noun, like "gregor", "father", "sister", "door" and etc. Here, I visualized the words with frequency more than 16.
+
+From this plot, we can easily see the most common words and their frequencies in Metamorphosis. 
+
+
+## Sentiment analysis with Metamorphosis
+
+```{r}
+get_sentiments("afinn")
+get_sentiments("bing")
+get_sentiments("nrc")
+```
+From the tidytext package, we can find three sentiment lexicons based on single words:
+
++ AFINN: assign words with a score form -5 to 5
+
++ bing: categorize words in a binary fashion, positive and negative.
+
++ nrc : assign words into emotion categories of positive, negative, anger, anticipation, disgust, fear, joy, sadness, surprise, and trust.
+
+```{r}
+### analysis based on "bing" ###
+Metamorphosis_sentiment_bing <- tidy_Metamorphosis %>%
+  inner_join(get_sentiments("bing")) %>%
+  count(index = linenumber %/% 8, sentiment) %>%
+  pivot_wider(names_from = sentiment, values_from = n, values_fill = 0) %>% 
+  mutate(sentiment = positive - negative)
+
+ggplot(Metamorphosis_sentiment_bing, aes(index, sentiment, fill=factor(sentiment))) +
+  geom_col(show.legend = FALSE)
+```
+
+- Firstly, I did sentiment analysis with Metamorphosis based on "bing", the plot shows each line's positive or negative sentiment, and because x-axis is novel's line number index, we can also track the sentiment trend through narrative time.
+ 
+ - We can see from this plot, Metamorphosis shows more negative sentiment, at the end of this novel, it shows positive ending.
+
+
+```{r}
+### analysis based on "afinn" ###
+Metamorphosis_sentiment_afinn <- tidy_Metamorphosis %>% 
+  inner_join(get_sentiments("afinn")) %>% 
+  group_by(index = linenumber %/% 8) %>% 
+  summarise(sentiment = sum(value)) %>% 
+  mutate(method = "AFINN")
+
+ggplot(Metamorphosis_sentiment_afinn, aes(index, sentiment,fill=factor(sentiment))) +
+  geom_col(show.legend = FALSE)
+```
+
+- Secondly, I did sentiment analysis with Metamorphosis based on "afinn", the plot shows similar result as "bing" method.
+
+
+```{r}
+### compare three sentiment dictionaries ###
+Metamorphosis_sentiment_bing_and_nrc <- bind_rows(
+  tidy_Metamorphosis %>% 
+    inner_join(get_sentiments("bing")) %>%
+    mutate(method = "Bing"),
+ tidy_Metamorphosis %>% 
+    inner_join(get_sentiments("nrc") %>% 
+                 filter(sentiment %in% c("positive", 
+                                         "negative"))
+    ) %>%
+    mutate(method = "NRC")) %>%
+  count(method, index = linenumber %/% 8, sentiment) %>%
+  pivot_wider(names_from = sentiment,
+              values_from = n,
+              values_fill = 0) %>% 
+  mutate(sentiment = positive - negative)
+
+bind_rows(Metamorphosis_sentiment_afinn, 
+          Metamorphosis_sentiment_bing_and_nrc) %>%
+  ggplot(aes(index, sentiment, fill = method)) +
+  geom_col(show.legend = FALSE) +
+  facet_wrap(~method, ncol = 1, scales = "free_y")
+```
+
+- Finally, I compared sentiment analysis results on three different sentiment lexicons. We can see
+the three lexicons shows similar sentiment trajectories through the novel, but the absolutely values are different. This is because different lexicons have different sentiment words, so they show different accuracy when analyse one specific book.
+
+
+### Check most common positive and negative words in Metamorphosis
+
+```{r}
+word_counts_Metamorphosis <- bind_rows(
+  data.frame(tidy_Metamorphosis[,4]) %>%
+  inner_join(get_sentiments("bing")) %>%
+  count(word, sentiment, sort = TRUE) %>%
+  ungroup() %>% mutate(method="Bing"),
+  data.frame(tidy_Metamorphosis[,4]) %>%
+  inner_join(get_sentiments("afinn")) %>%
+  mutate(sentiment=ifelse(value>=0,"positive","negative")) %>%
+  count(word, sentiment, sort = TRUE) %>%
+  ungroup() %>% mutate(method = "AFINN"),
+  data.frame(tidy_Metamorphosis[,4]) %>%
+  inner_join(get_sentiments("nrc") %>% filter(sentiment %in% c("positive","negative"))) %>%
+  count(word, sentiment, sort = TRUE) %>% mutate(method="NRC"))
+
+
+word_counts_Metamorphosis %>%
+  group_by(sentiment) %>%
+  slice_max(n, n = 30) %>% 
+  ungroup() %>%
+  mutate(word = reorder(word, n)) %>%
+  ggplot(aes(n, word, fill = sentiment)) +
+  geom_col(show.legend = FALSE) +
+  facet_wrap(sentiment~method, scales = "free_y") +
+  labs(x = "Contribution to sentiment",
+       y = NULL)
+```
+Here I compared the most common positive and negative words detected by three sentiment lexicons. We can see NRC assign "mother" as both positive and negative, it's not suitable for Metamorphosis.
+
+For other two lexicons, we can see Bing detects more positive words, and Afinn detects more positive words.
+
+### Wordclouds
+
+```{r}
+tidy_Metamorphosis %>%
+  anti_join(stop_words) %>%
+  count(word) %>%
+  with(wordcloud(word, n, max.words = 100))
+
+tidy_Metamorphosis %>%
+  inner_join(get_sentiments("bing")) %>%
+  count(word, sentiment, sort = TRUE) %>%
+  acast(word ~ sentiment, value.var = "n", fill = 0) %>%
+  comparison.cloud(colors = c("gray20", "gray80"),
+                   max.words = 100)
+```
+
+
+### Extra sentiment lexicons "loughran"
+
+Here we try to analyse Metamorphosis based on the sentiment dictinary "loughran", the Loughran divides words into six sentiments: “positive”, “negative”, “litigious”, “uncertain”, “constraining”, and “superfluous”.
+
+```{r}
+tidy_Metamorphosis %>%
+  count(word) %>%
+  inner_join(get_sentiments("loughran"), by = "word") %>%
+  group_by(sentiment) %>%
+  slice_max(n, n = 10, with_ties = FALSE) %>%
+  ungroup() %>%
+  mutate(word = reorder(word, n)) %>%
+  ggplot(aes(n, word)) +
+  geom_col() +
+  facet_wrap(~ sentiment, scales = "free") +
+  labs(x = "Frequency of this word in Metamorphosis", y = NULL)
+```
+From this plot, we can see the most common words for all six sentimental categories in dictionary "loughran". In Metamorphosis, most words belong to positive and uncertainty.
+
+
+
+## Import book by using tnum package
+
+```{r}
+#devtools::install_github("Truenumbers/tnum/tnum")
+tnum.authorize("mssp1.bu.edu")
+tnum.setSpace("test2")
+source("Book2TN-v6A-1.R")
+#Metamorphosis_text <- readLines("Metamorphosis.txt")
+Metamorphosis <- gutenberg_download(gutenberg_id = 5200)
+Metamorphosis <- read.table("Metamorphosis.txt", header = T)
+
+tnBooksFromLines(Metamorphosis$text, "Kafka/Metamorphosis")
+tnum.getDBPathList(taxonomy = "subject", levels = 2)
+
+Metamorphosis_txt <- tnum.query("Kafka/Metamorphosis# has text", max = 3000)
+Metamorphosis_txt_df <- tnum.objectsToDf(Metamorphosis_txt)
+```
+
+## Do sentimentr
+
+```{r}
+library(sentimentr)
+sentiment=sentiment_by(get_sentences(Metamorphosis$text))
+summary(sentiment$ave_sentiment)
+qplot(sentiment$ave_sentiment,geom="histogram",binwidth=0.1,main="Review Sentiment Histogram")
+### add sentiment score to original data frame
+Metamorphosis$ave_sentiment=sentiment$ave_sentiment
+Metamorphosis$sd_sentiment=sentiment$sd
+```
+From the summary of sentiment score, reviews keep neutral in this book, but there are some extreme outliers, with the most positive review being 1.41 and the most negative being -1.45. We should remove them for further analysis.
+

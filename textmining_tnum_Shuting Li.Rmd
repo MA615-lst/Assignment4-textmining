@@ -1,0 +1,47 @@
+---
+title: "textmining_tnum"
+author: "Shuting"
+date: "12/8/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(sentimentr)
+library(ggplot2)
+```
+
+## Import book by using tnum package
+
+```{r}
+#devtools::install_github("Truenumbers/tnum/tnum")
+tnum.authorize("mssp1.bu.edu")
+tnum.setSpace("test2")
+source("Book2TN-v6A-1.R")
+#Metamorphosis_text <- readLines("Metamorphosis.txt")
+Metamorphosis <- gutenberg_download(gutenberg_id = 5200)
+Metamorphosis <- read.table("Metamorphosis.txt", header = T)
+
+tnBooksFromLines(Metamorphosis$text, "Kafka/Metamorphosis")
+tnum.getDBPathList(taxonomy = "subject", levels = 2)
+
+Metamorphosis_txt <- tnum.query("Kafka/Metamorphosis# has text", max = 3000)
+Metamorphosis_txt_df <- tnum.objectsToDf(Metamorphosis_txt)
+```
+
+## Do sentimentr
+
+```{r}
+sentiment=sentiment_by(get_sentences(Metamorphosis$text))
+summary(sentiment$ave_sentiment)
+qplot(sentiment$ave_sentiment,geom="histogram",binwidth=0.1,main="Review Sentiment Histogram")
+### add sentiment score to original data frame
+Metamorphosis$ave_sentiment=sentiment$ave_sentiment
+Metamorphosis$sd_sentiment=sentiment$sd
+```
+From the summary of sentiment score, reviews keep neutral in this book, but there are some extreme outliers, with the most positive review being 1.41 and the most negative being -1.45. We should remove them for further analysis.
+
+
+
+
+
