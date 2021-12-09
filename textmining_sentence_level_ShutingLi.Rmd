@@ -9,6 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 library(sentimentr)
 library(ggplot2)
+library(knitr)
 ```
 
 ## Import book by using tnum package
@@ -40,23 +41,37 @@ qplot(sentiment$ave_sentiment,geom="histogram",binwidth=0.1,main="Review Sentime
 ### add sentiment score to original data frame
 Metamorphosis_txt_df$ave_sentiment=sentiment$ave_sentiment
 Metamorphosis_txt_df$sd_sentiment=sentiment$sd
+
 ```
 From the summary of sentiment score, reviews keep neutral in this book, but there are some extreme outliers, with the most positive review being 1.41 and the most negative being -1.45. We should remove them for further analysis.
 
-## Re-do the bag of words analysis
+## Recall the bag of words analysis
 
-### Sentiment analysis based on "afinn"
-```{r}
-Metamorphosis_sentiment_afinn <- Metamorphosis_txt_df %>% 
+```{r,warning=FALSE,message=FALSE}
+source(knitr::purl("textmining_ShutingLi.Rmd", quiet=TRUE))
+
+tidy_Metamorphosis_line <- tidy_Metamorphosis %>%
   inner_join(get_sentiments("afinn")) %>% 
-  group_by(index = linenumber %/% 8) %>% 
-  summarise(sentiment = sum(value)) %>% 
-  mutate(method = "AFINN")
+  group_by(linenumber) %>% 
+  summarise(sentiment = sum(value), n=n())
 
-ggplot(Metamorphosis_sentiment_afinn, aes(index, sentiment,fill=factor(sentiment))) +
+tidy_Metamorphosis_line$ave_sentiment <- tidy_Metamorphosis_line$sentiment/tidy_Metamorphosis_line$n
+
+ggplot(tidy_Metamorphosis_line, aes(linenumber, ave_sentiment, fill=factor(linenumber))) +
   geom_col(show.legend = FALSE)
 ```
+I use the sentiment value we get from the bag of words analysis based on dictionary "afinn" as the sentiment score, and aggregate them by line number, then I get the sentiment score at line level.
+
+Here is the plot to show the sentiment trendency on line level.
 
 
+## Compare the result from the sentimentr 
+
+```{r}
+Metamorphosis_txt_df <- Metamorphosis_txt_df %>% mutate(linenumber = row_number())
+ggplot(Metamorphosis_txt_df, aes(linenumber, ave_sentiment, fill=factor(linenumber))) +
+  geom_col(show.legend = FALSE)
+```
+Here is the plot to show the sentiment trendency based on sentimentr analysis.
 
 
